@@ -16,7 +16,7 @@ function App() {
         </header>
       </Route>
       <Route path="/homepage" >
-        <ParentComponent />
+        <ParentComponent/>
       </Route>
       <Route path="/addchampion" >
         <AddChamp />
@@ -24,7 +24,6 @@ function App() {
       <Route path="/streams" >
         <Streams />
       </Route>
-
     </div>
   );
 }
