@@ -1,7 +1,8 @@
 import './App.css';
-import Header from './components/Header';
+import AddChamp from './components/AddChamp';
 import Homepage from './components/Homepage';
 import { Route } from 'react-router-dom'
+import Streams from './components/Streams';
 
 function App() {
   return (
@@ -14,6 +15,13 @@ function App() {
       <Route path="/homepage" >
         <Homepage />
       </Route>
+      <Route path="/addchampion" >
+        <AddChamp />
+      </Route>
+      <Route path="/streams" >
+        <Streams />
+      </Route>
+
     </div>
   );
 }
