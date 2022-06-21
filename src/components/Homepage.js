@@ -1,10 +1,10 @@
 import React from 'react'
 
-function Homepage() {
-
+function Homepage({champions}) {
+  console.log(champions)
   return (
     <div>Homepage</div>
   )
 }
 
-export default Homepage
+export default Homepage;

@@ -2,8 +2,10 @@ import React from 'react'
 
 function AddChamp() {
   return (
-    <div>Add Champ</div>
+
+    <div>Add a champion</div>
   )
 }
 
-export default AddChamp;
+export default AddChamp
+
