@@ -1,9 +1,9 @@
 import React from 'react'
 
-function Header() {
+function AddChamp() {
   return (
-    <div>Header</div>
+    <div>Add Champ</div>
   )
 }
 
-export default Header
+export default AddChamp;
