@@ -18516,6 +18516,7 @@
 				"name": "Jurassic Kog'Maw",
 				"chromas": false,
                 "splash": "KogMaw_7.png"
+            },{
 				"id": "96008",
 				"num": 8,
 				"name": "Battlecast Kog'Maw",
@@ -20876,7 +20877,7 @@
 				"num": 3,
 				"name": "Commando Lux",
 				"chromas": false,
-                '"splash": "Lux_3.png"
+                "splash": "Lux_3.png"
 			}, {
 				"id": "99004",
 				"num": 4,
@@ -25989,7 +25990,7 @@
 				"num": 1,
 				"name": "Gothic Orianna",
 				"chromas": false,
-                '"splash": "Orianna_1.png"
+                "splash": "Orianna_1.png"
 			}, {
 				"id": "61002",
 				"num": 2,
@@ -30521,7 +30522,7 @@
 				"id": "13006",
 				"num": 6,
 				"name": "Zombie Ryze",
-				"chromas": false
+				"chromas": false,
                 "splash": "Ryze_6.png"
 			}, {
 				"id": "13007",
@@ -33362,7 +33363,6 @@
 				"num": 0,
 				"name": "default",
 				"chromas": false,
-                "splash": "Sion_0.png",
                 "splash": "Sion_0.png"
 			}, {
 				"id": "14001",
@@ -34832,7 +34832,6 @@
 			"title": "the Noxian Grand General",
 			"image": {
 				"full": "Swain.png",
-				,
                 "splash": "Swain_0.png",
 				"group": "champion",
 				"x": 432,
@@ -35107,7 +35106,6 @@
 			"title": "the Unshackled",
 			"image": {
 				"full": "Sylas.png",
-				,
                 "splash": "Sylas_0.png",
 				"group": "champion",
 				"x": 0,
