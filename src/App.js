@@ -4,6 +4,7 @@ import Homepage from './components/Homepage';
 import { Route } from 'react-router-dom';
 import Streams from './components/Streams';
 import NavBar from './components/NavBar';
+import ParentComponent from './components/ParentComponent';
 
 function App() {
   return (
@@ -15,7 +16,7 @@ function App() {
         </header>
       </Route>
       <Route path="/homepage" >
-        <Homepage />
+        <ParentComponent />
       </Route>
       <Route path="/addchampion" >
         <AddChamp />
