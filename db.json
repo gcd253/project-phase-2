@@ -27131,7 +27131,7 @@
 			"title": "the Bloodharbor Ripper",
 			"image": {
 				"full": "Pyke.png",
-				"sprite": "champion3.png",
+                "splash": "Pyke_0.png",
 				"group": "champion",
 				"x": 96,
 				"y": 0,
@@ -27142,37 +27142,44 @@
 				"id": "555000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Pyke_0.png"
 			}, {
 				"id": "555001",
 				"num": 1,
 				"name": "Sand Wraith Pyke",
-				"chromas": true
+				"chromas": true,
+                "splash": "Pyke_1.png"
 			}, {
 				"id": "555009",
 				"num": 9,
 				"name": "Blood Moon Pyke",
-				"chromas": true
+				"chromas": true,
+                "splash": "Pyke_9.png"
 			}, {
 				"id": "555016",
 				"num": 16,
 				"name": "PROJECT: Pyke",
-				"chromas": true
+				"chromas": true,
+                "splash": "Pyke_16.png"
 			}, {
 				"id": "555025",
 				"num": 25,
 				"name": "PsyOps Pyke",
-				"chromas": true
+				"chromas": true,
+                "splash": "Pyke_25.png"
 			}, {
 				"id": "555034",
 				"num": 34,
 				"name": "Sentinel Pyke",
-				"chromas": true
+				"chromas": true,
+                "splash": "Pyke_34.png"
 			}, {
 				"id": "555044",
 				"num": 44,
 				"name": "Ashen Knight Pyke",
-				"chromas": true
+				"chromas": true,
+                "splash": "Pyke_44.png"
 			}],
 			"lore": "A renowned harpooner from the slaughter docks of Bilgewater, Pyke should have met his death in the belly of a gigantic jaull-fish… and yet, he returned. Now, stalking the dank alleys and backways of his former hometown, he uses his new supernatural gifts to bring a swift and gruesome end to those who make their fortune by exploiting others—and a city that prides itself on hunting monsters now finds a monster hunting them.",
 			"blurb": "A renowned harpooner from the slaughter docks of Bilgewater, Pyke should have met his death in the belly of a gigantic jaull-fish… and yet, he returned. Now, stalking the dank alleys and backways of his former hometown, he uses his new supernatural...",
@@ -27399,7 +27406,7 @@
 			"title": "Empress of the Elements",
 			"image": {
 				"full": "Qiyana.png",
-				"sprite": "champion3.png",
+				"splash": "Qiyana_0.png",
 				"group": "champion",
 				"x": 144,
 				"y": 0,
@@ -27410,37 +27417,44 @@
 				"id": "246000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Qiyana_0.png"
 			}, {
 				"id": "246001",
 				"num": 1,
 				"name": "Battle Boss Qiyana",
-				"chromas": true
+				"chromas": true,
+                "splash": "Qiyana_1.png"
 			}, {
 				"id": "246002",
 				"num": 2,
 				"name": "True Damage Qiyana",
-				"chromas": false
+				"chromas": false,
+                "splash": "Qiyana_2.png"
 			}, {
 				"id": "246010",
 				"num": 10,
 				"name": "Prestige True Damage Qiyana",
-				"chromas": false
+				"chromas": false,
+                "splash": "Qiyana_10.png"
 			}, {
 				"id": "246011",
 				"num": 11,
 				"name": "Battle Queen Qiyana",
-				"chromas": true
+				"chromas": true,
+                "splash": "Qiyana_11.png"
 			}, {
 				"id": "246020",
 				"num": 20,
 				"name": "Shockblade Qiyana",
-				"chromas": true
+				"chromas": true,
+                "splash": "Qiyana_20.png"
 			}, {
 				"id": "246021",
 				"num": 21,
 				"name": "Prestige True Damage Qiyana (2022)",
-				"chromas": false
+				"chromas": false,
+                "splash": "Qiyana_21.png"
 			}],
 			"lore": "In the jungle city of Ixaocan, Qiyana plots her own ruthless path to the high seat of the Yun Tal. Last in line to succeed her parents, she faces those who stand in her way with brash confidence and unprecedented mastery over elemental magic. With the land itself obeying her every command, Qiyana sees herself as the greatest elementalist in the history of Ixaocan—and by that right, deserving of not only a city, but an empire.",
 			"blurb": "In the jungle city of Ixaocan, Qiyana plots her own ruthless path to the high seat of the Yun Tal. Last in line to succeed her parents, she faces those who stand in her way with brash confidence and unprecedented mastery over elemental magic. With the...",
@@ -27667,7 +27681,7 @@
 			"title": "Demacia's Wings",
 			"image": {
 				"full": "Quinn.png",
-				"sprite": "champion3.png",
+				"splash": "Quinn_0.png",
 				"group": "champion",
 				"x": 192,
 				"y": 0,
@@ -27678,32 +27692,38 @@
 				"id": "133000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Quinn_0.png"
 			}, {
 				"id": "133001",
 				"num": 1,
 				"name": "Phoenix Quinn",
-				"chromas": false
+				"chromas": false,
+                "splash": "Quinn_1.png"
 			}, {
 				"id": "133002",
 				"num": 2,
 				"name": "Woad Scout Quinn",
-				"chromas": false
+				"chromas": false,
+                "splash": "Quinn_2.png"
 			}, {
 				"id": "133003",
 				"num": 3,
 				"name": "Corsair Quinn",
-				"chromas": false
+				"chromas": false,
+                "splash": "Quinn_3.png"
 			}, {
 				"id": "133004",
 				"num": 4,
 				"name": "Heartseeker Quinn",
-				"chromas": false
+				"chromas": false,
+                "splash": "Quinn_4.png"
 			}, {
 				"id": "133005",
 				"num": 5,
 				"name": "Warden Quinn",
-				"chromas": true
+				"chromas": true,
+                "splash": "Quinn_5.png"
 			}],
 			"lore": "Quinn is an elite ranger-knight of Demacia, who undertakes dangerous missions deep in enemy territory. She and her legendary eagle, Valor, share an unbreakable bond, and their foes are often slain before they realize they are fighting not one, but two of the kingdom's greatest heroes. Nimble and acrobatic when required, Quinn takes aim with her crossbow while Valor marks their elusive targets from above, making them a deadly pair on the battlefield.",
 			"blurb": "Quinn is an elite ranger-knight of Demacia, who undertakes dangerous missions deep in enemy territory. She and her legendary eagle, Valor, share an unbreakable bond, and their foes are often slain before they realize they are fighting not one, but two...",
@@ -27930,7 +27950,7 @@
 			"title": "The Charmer",
 			"image": {
 				"full": "Rakan.png",
-				"sprite": "champion3.png",
+				"splash": "Rakan_0.png",
 				"group": "champion",
 				"x": 240,
 				"y": 0,
@@ -27941,42 +27961,50 @@
 				"id": "497000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Rakan_0.png"
 			}, {
 				"id": "497001",
 				"num": 1,
 				"name": "Cosmic Dawn Rakan",
-				"chromas": false
+				"chromas": false,
+                "splash": "Rakan_1.png"
 			}, {
 				"id": "497002",
 				"num": 2,
 				"name": "Sweetheart Rakan",
-				"chromas": false
+				"chromas": false,
+                "splash": "Rakan_2.png"
 			}, {
 				"id": "497003",
 				"num": 3,
 				"name": "SSG Rakan",
-				"chromas": false
+				"chromas": false,
+                "splash": "Rakan_3.png"
 			}, {
 				"id": "497004",
 				"num": 4,
 				"name": "iG Rakan",
-				"chromas": false
+				"chromas": false,
+                "splash": "Rakan_4.png"
 			}, {
 				"id": "497005",
 				"num": 5,
 				"name": "Star Guardian Rakan",
-				"chromas": true
+				"chromas": true,
+                "splash": "Rakan_5.png"
 			}, {
 				"id": "497009",
 				"num": 9,
 				"name": "Elderwood Rakan",
-				"chromas": true
+				"chromas": true,
+                "splash": "Rakan_9.png"
 			}, {
 				"id": "497018",
 				"num": 18,
 				"name": "Arcana Rakan",
-				"chromas": true
+				"chromas": true,
+                "splash": "Rakan_18.png"
 			}],
 			"lore": "As mercurial as he is charming, Rakan is an infamous vastayan troublemaker and the greatest battle-dancer in Lhotlan tribal history. To the humans of the Ionian highlands, his name has long been synonymous with wild festivals, uncontrollable parties, and anarchic music. Few would suspect this energetic, traveling showman is also partner to the rebel Xayah, and is dedicated to her cause.",
 			"blurb": "As mercurial as he is charming, Rakan is an infamous vastayan troublemaker and the greatest battle-dancer in Lhotlan tribal history. To the humans of the Ionian highlands, his name has long been synonymous with wild festivals, uncontrollable parties...",
@@ -28203,7 +28231,7 @@
 			"title": "the Armordillo",
 			"image": {
 				"full": "Rammus.png",
-				"sprite": "champion3.png",
+				"splash": "Rammus_0.png",
 				"group": "champion",
 				"x": 288,
 				"y": 0,
@@ -28214,57 +28242,68 @@
 				"id": "33000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Rammus_0.png"
 			}, {
 				"id": "33001",
 				"num": 1,
 				"name": "King Rammus",
-				"chromas": false
+				"chromas": false,
+                "splash": "Rammus_1.png"
 			}, {
 				"id": "33002",
 				"num": 2,
 				"name": "Chrome Rammus",
-				"chromas": false
+				"chromas": false,
+                "splash": "Rammus_2.png"
 			}, {
 				"id": "33003",
 				"num": 3,
 				"name": "Molten Rammus",
-				"chromas": false
+				"chromas": false,
+                "splash": "Rammus_3.png"
 			}, {
 				"id": "33004",
 				"num": 4,
 				"name": "Freljord Rammus",
-				"chromas": false
+				"chromas": false,
+                "splash": "Rammus_4.png"
 			}, {
 				"id": "33005",
 				"num": 5,
 				"name": "Ninja Rammus",
-				"chromas": false
+				"chromas": false,
+                "splash": "Rammus_5.png"
 			}, {
 				"id": "33006",
 				"num": 6,
 				"name": "Full Metal Rammus",
-				"chromas": false
+				"chromas": false,
+                "splash": "Rammus_6.png"
 			}, {
 				"id": "33007",
 				"num": 7,
 				"name": "Guardian of the Sands Rammus",
-				"chromas": false
+				"chromas": false,
+                "splash": "Rammus_7.png"
 			}, {
 				"id": "33008",
 				"num": 8,
 				"name": "Sweeper Rammus",
-				"chromas": true
+				"chromas": true,
+                "splash": "Rammus_8.png"
 			}, {
 				"id": "33016",
 				"num": 16,
 				"name": "Hextech Rammus",
-				"chromas": false
+				"chromas": false,
+                "splash": "Rammus_16.png"
 			}, {
 				"id": "33017",
 				"num": 17,
 				"name": "Astronaut Rammus",
-				"chromas": true
+				"chromas": true,
+                "splash": "Rammus_17.png"
 			}],
 			"lore": "Idolized by many, dismissed by some, mystifying to all, the curious being Rammus is an enigma. Protected by a spiked shell, he inspires increasingly disparate theories on his origin wherever he goes—from demigod, to sacred oracle, to a mere beast transformed by magic. Whatever the truth may be, Rammus keeps his own counsel and stops for no one as he roams the Shuriman desert.",
 			"blurb": "Idolized by many, dismissed by some, mystifying to all, the curious being Rammus is an enigma. Protected by a spiked shell, he inspires increasingly disparate theories on his origin wherever he goes—from demigod, to sacred oracle, to a mere beast...",
@@ -28491,7 +28530,7 @@
 			"title": "the Void Burrower",
 			"image": {
 				"full": "RekSai.png",
-				"sprite": "champion3.png",
+				"splash": "RekSai_0.png",
 				"group": "champion",
 				"x": 336,
 				"y": 0,
@@ -28502,27 +28541,32 @@
 				"id": "421000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "RekSai_0.png"
 			}, {
 				"id": "421001",
 				"num": 1,
 				"name": "Eternum Rek'Sai",
-				"chromas": false
+				"chromas": false,
+                "splash": "RekSai_1.png"
 			}, {
 				"id": "421002",
 				"num": 2,
 				"name": "Pool Party Rek'Sai",
-				"chromas": true
+				"chromas": true,
+                "splash": "RekSai_2.png"
 			}, {
 				"id": "421009",
 				"num": 9,
 				"name": "Blackfrost Rek'Sai",
-				"chromas": true
+				"chromas": true,
+                "splash": "RekSai_9.png"
 			}, {
 				"id": "421017",
 				"num": 17,
 				"name": "Elderwood Rek'Sai",
-				"chromas": true
+				"chromas": true,
+                "splash": "RekSai_17.png"
 			}],
 			"lore": "An apex predator, Rek'Sai is a merciless Void-spawn that tunnels beneath the ground to ambush and devour unsuspecting prey. Her insatiable hunger has laid waste to entire regions of the once-great empire of Shurima—merchants, traders, even armed caravans, will go hundreds of miles out of their way to avoid her and her offspring's hunting grounds. All know that once Rek'Sai is seen on the horizon, death from below is all but guaranteed.",
 			"blurb": "An apex predator, Rek'Sai is a merciless Void-spawn that tunnels beneath the ground to ambush and devour unsuspecting prey. Her insatiable hunger has laid waste to entire regions of the once-great empire of Shurima—merchants, traders, even armed...",
@@ -28749,7 +28793,7 @@
 			"title": "the Iron Maiden",
 			"image": {
 				"full": "Rell.png",
-				"sprite": "champion3.png",
+				"splash": "Rell_0.png",
 				"group": "champion",
 				"x": 384,
 				"y": 0,
@@ -28760,12 +28804,14 @@
 				"id": "526000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Rell_0.png"
 			}, {
 				"id": "526001",
 				"num": 1,
 				"name": "Battle Queen Rell",
-				"chromas": true
+				"chromas": true,
+                "splash": "Rell_1.png"
 			}],
 			"lore": "The product of brutal experimentation at the hands of the Black Rose, Rell is a defiant, living weapon determined to topple Noxus. Her childhood was one of misery and horror, enduring unspeakable procedures to perfect and weaponize her magical control over metal... until she staged a violent escape, killing many of her captors in the process. Now branded as a criminal, Rell attacks Noxian soldiers on sight as she searches for survivors of her old “academy,” defending the meek while delivering violent death to her former overseers.",
 			"blurb": "The product of brutal experimentation at the hands of the Black Rose, Rell is a defiant, living weapon determined to topple Noxus. Her childhood was one of misery and horror, enduring unspeakable procedures to perfect and weaponize her magical control...",
@@ -28992,7 +29038,7 @@
 			"title": "the Chem-Baroness",
 			"image": {
 				"full": "Renata.png",
-				"sprite": "champion3.png",
+				"splash": "Renata_0.png",
 				"group": "champion",
 				"x": 432,
 				"y": 0,
@@ -29003,12 +29049,14 @@
 				"id": "888000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Renata_0.png"
 			}, {
 				"id": "888001",
 				"num": 1,
 				"name": "Admiral Glasc",
-				"chromas": true
+				"chromas": true,
+                "splash": "Renata_1.png"
 			}],
 			"lore": "Renata Glasc rose from the ashes of her childhood home with nothing but her name and her parents' alchemical research. In the decades since, she has become Zaun's wealthiest chem-baron, a business magnate who built her power by tying everyone's interests to her own. Work with her, and be rewarded beyond measure. Work against her, and live to regret it. But everyone comes to her side, eventually.",
 			"blurb": "Renata Glasc rose from the ashes of her childhood home with nothing but her name and her parents' alchemical research. In the decades since, she has become Zaun's wealthiest chem-baron, a business magnate who built her power by tying everyone's...",
@@ -29235,7 +29283,7 @@
 			"title": "the Butcher of the Sands",
 			"image": {
 				"full": "Renekton.png",
-				"sprite": "champion3.png",
+				"splash": "Renekton_0.png",
 				"group": "champion",
 				"x": 0,
 				"y": 48,
@@ -29246,67 +29294,80 @@
 				"id": "58000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Renekton_0.png"
 			}, {
 				"id": "58001",
 				"num": 1,
 				"name": "Galactic Renekton",
-				"chromas": false
+				"chromas": false,
+                "splash": "Renekton_1.png"
 			}, {
 				"id": "58002",
 				"num": 2,
 				"name": "Outback Renekton",
-				"chromas": false
+				"chromas": false,
+                "splash": "Renekton_2.png"
 			}, {
 				"id": "58003",
 				"num": 3,
 				"name": "Bloodfury Renekton",
-				"chromas": false
+				"chromas": false,
+                "splash": "Renekton_3.png"
 			}, {
 				"id": "58004",
 				"num": 4,
 				"name": "Rune Wars Renekton",
-				"chromas": false
+				"chromas": false,
+                "splash": "Renekton_4.png"
 			}, {
 				"id": "58005",
 				"num": 5,
 				"name": "Scorched Earth Renekton",
-				"chromas": false
+				"chromas": false,
+                "splash": "Renekton_5.png"
 			}, {
 				"id": "58006",
 				"num": 6,
 				"name": "Pool Party Renekton",
-				"chromas": false
+				"chromas": false,
+                "splash": "Renekton_6.png"
 			}, {
 				"id": "58007",
 				"num": 7,
 				"name": "Prehistoric Renekton",
-				"chromas": false
+				"chromas": false,
+                "splash": "Renekton_7.png"
 			}, {
 				"id": "58008",
 				"num": 8,
 				"name": "SKT T1 Renekton",
-				"chromas": false
+				"chromas": false,
+                "splash": "Renekton_8.png"
 			}, {
 				"id": "58009",
 				"num": 9,
 				"name": "Renektoy",
-				"chromas": true
+				"chromas": true,
+                "splash": "Renekton_9.png"
 			}, {
 				"id": "58017",
 				"num": 17,
 				"name": "Hextech Renekton",
-				"chromas": false
+				"chromas": false,
+                "splash": "Renekton_17.png"
 			}, {
 				"id": "58018",
 				"num": 18,
 				"name": "Blackfrost Renekton",
-				"chromas": true
+				"chromas": true,
+                "splash": "Renekton_18.png"
 			}, {
 				"id": "58026",
 				"num": 26,
 				"name": "PROJECT: Renekton",
-				"chromas": true
+				"chromas": true,
+                "splash": "Renekton_26.png"
 			}],
 			"lore": "Renekton is a terrifying, rage-fueled Ascended being from the scorched deserts of Shurima. Once, he was his empire's most esteemed warrior, leading the nation's armies to countless victories. However, after the empire's fall, Renekton was entombed beneath the sands, and slowly, as the world turned and changed, he succumbed to insanity. Now free once more, he is utterly consumed with finding and killing his brother, Nasus, who he blames, in his madness, for the centuries he spent in darkness.",
 			"blurb": "Renekton is a terrifying, rage-fueled Ascended being from the scorched deserts of Shurima. Once, he was his empire's most esteemed warrior, leading the nation's armies to countless victories. However, after the empire's fall, Renekton was entombed...",
@@ -29533,7 +29594,7 @@
 			"title": "the Pridestalker",
 			"image": {
 				"full": "Rengar.png",
-				"sprite": "champion3.png",
+                "splash": "Rengar_0.png",
 				"group": "champion",
 				"x": 48,
 				"y": 48,
@@ -29544,42 +29605,50 @@
 				"id": "107000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Rengar_0.png"
 			}, {
 				"id": "107001",
 				"num": 1,
 				"name": "Headhunter Rengar",
-				"chromas": true
+				"chromas": true,
+                "splash": "Rengar_1.png"
 			}, {
 				"id": "107002",
 				"num": 2,
 				"name": "Night Hunter Rengar",
-				"chromas": false
+				"chromas": false,
+                "splash": "Rengar_2.png"
 			}, {
 				"id": "107003",
 				"num": 3,
 				"name": "SSW Rengar",
-				"chromas": false
+				"chromas": false,
+                "splash": "Rengar_3.png"
 			}, {
 				"id": "107008",
 				"num": 8,
 				"name": "Mecha Rengar",
-				"chromas": true
+				"chromas": true,
+                "splash": "Rengar_8.png"
 			}, {
 				"id": "107015",
 				"num": 15,
 				"name": "Pretty Kitty Rengar",
-				"chromas": true
+				"chromas": true,
+                "splash": "Rengar_13.png"
 			}, {
 				"id": "107023",
 				"num": 23,
 				"name": "Guardian of the Sands Rengar",
-				"chromas": true
+				"chromas": true,
+                "splash": "Rengar_23.png"
 			}, {
 				"id": "107030",
 				"num": 30,
 				"name": "Sentinel Rengar",
-				"chromas": true
+				"chromas": true,
+                "splash": "Rengar_30.png"
 			}],
 			"lore": "Rengar is a ferocious vastayan trophy hunter who lives for the thrill of tracking down and killing dangerous creatures. He scours the world for the most fearsome beasts he can find, especially seeking any trace of Kha'Zix, the void creature who scratched out his eye. Rengar stalks his prey neither for food nor glory, but for the sheer beauty of the pursuit.",
 			"blurb": "Rengar is a ferocious vastayan trophy hunter who lives for the thrill of tracking down and killing dangerous creatures. He scours the world for the most fearsome beasts he can find, especially seeking any trace of Kha'Zix, the void creature who...",
@@ -29806,7 +29875,7 @@
 			"title": "the Exile",
 			"image": {
 				"full": "Riven.png",
-				"sprite": "champion3.png",
+				"splash": "Riven_0.png",
 				"group": "champion",
 				"x": 96,
 				"y": 48,
@@ -29817,82 +29886,98 @@
 				"id": "92000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Riven_0.png"
 			}, {
 				"id": "92001",
 				"num": 1,
 				"name": "Redeemed Riven",
-				"chromas": false
+				"chromas": false,
+                "splash": "Riven_1.png"
 			}, {
 				"id": "92002",
 				"num": 2,
 				"name": "Crimson Elite Riven",
-				"chromas": false
+				"chromas": false,
+                "splash": "Riven_2.png"
 			}, {
 				"id": "92003",
 				"num": 3,
 				"name": "Battle Bunny Riven",
-				"chromas": true
+				"chromas": true,
+                "splash": "Riven_3.png"
 			}, {
 				"id": "92004",
 				"num": 4,
 				"name": "Championship Riven",
-				"chromas": false
+				"chromas": false,
+                "splash": "Riven_4.png"
 			}, {
 				"id": "92005",
 				"num": 5,
 				"name": "Dragonblade Riven",
-				"chromas": true
+				"chromas": true,
+                "splash": "Riven_5.png"
 			}, {
 				"id": "92006",
 				"num": 6,
 				"name": "Arcade Riven",
-				"chromas": true
+				"chromas": true,
+                "splash": "Riven_6.png"
 			}, {
 				"id": "92007",
 				"num": 7,
 				"name": "Championship Riven 2016",
-				"chromas": true
+				"chromas": true,
+                "splash": "Riven_7.png"
 			}, {
 				"id": "92016",
 				"num": 16,
 				"name": "Dawnbringer Riven",
-				"chromas": true
+				"chromas": true,
+                "splash": "Riven_16.png"
 			}, {
 				"id": "92018",
 				"num": 18,
 				"name": "Pulsefire Riven",
-				"chromas": true
+				"chromas": true,
+                "splash": "Riven_18.png"
 			}, {
 				"id": "92020",
 				"num": 20,
 				"name": "Valiant Sword Riven",
-				"chromas": false
+				"chromas": false,
+                "splash": "Riven_20.png"
 			}, {
 				"id": "92022",
 				"num": 22,
 				"name": "Prestige Valiant Sword Riven",
-				"chromas": false
+				"chromas": false,
+                "splash": "Riven_22.png"
 			}, {
 				"id": "92023",
 				"num": 23,
 				"name": "Spirit Blossom Riven",
-				"chromas": true
+				"chromas": true,
+                "splash": "Riven_23.png"
 			}, {
 				"id": "92034",
 				"num": 34,
 				"name": "Sentinel Riven",
-				"chromas": true
+				"chromas": true,
+                "splash": "Riven_34.png"
 			}, {
 				"id": "92044",
 				"num": 44,
 				"name": "Battle Bunny Prime Riven",
-				"chromas": true
+				"chromas": true,
+                "splash": "Riven_44.png"
 			}, {
 				"id": "92045",
 				"num": 45,
 				"name": "Prestige Valiant Sword Riven (2022)",
-				"chromas": false
+				"chromas": false,
+                "splash": "Riven_45.png"
 			}],
 			"lore": "Once a swordmaster in the warhosts of Noxus, Riven is an expatriate in a land she previously tried to conquer. She rose through the ranks on the strength of her conviction and brutal efficiency, and was rewarded with a legendary runic blade and a warband of her own. However, on the Ionian front, Riven's faith in her homeland was tested and ultimately broken. Having severed all ties to the empire, she now seeks to find her place in a shattered world, even as rumors abound that Noxus itself has been reforged...",
 			"blurb": "Once a swordmaster in the warhosts of Noxus, Riven is an expatriate in a land she previously tried to conquer. She rose through the ranks on the strength of her conviction and brutal efficiency, and was rewarded with a legendary runic blade and a...",
@@ -30119,7 +30204,7 @@
 			"title": "the Mechanized Menace",
 			"image": {
 				"full": "Rumble.png",
-				"sprite": "champion3.png",
+				"splash": "Rumble_0.png",
 				"group": "champion",
 				"x": 144,
 				"y": 48,
@@ -30130,32 +30215,38 @@
 				"id": "68000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Rumble_0.png"
 			}, {
 				"id": "68001",
 				"num": 1,
 				"name": "Rumble in the Jungle",
-				"chromas": false
+				"chromas": false,
+                "splash": "Rumble_1.png"
 			}, {
 				"id": "68002",
 				"num": 2,
 				"name": "Bilgerat Rumble",
-				"chromas": false
+				"chromas": false,
+                "splash": "Rumble_2.png"
 			}, {
 				"id": "68003",
 				"num": 3,
 				"name": "Super Galaxy Rumble",
-				"chromas": false
+				"chromas": false,
+                "splash": "Rumble_3.png"
 			}, {
 				"id": "68004",
 				"num": 4,
 				"name": "Badlands Baron Rumble",
-				"chromas": true
+				"chromas": true,
+                "splash": "Rumble_4.png"
 			}, {
 				"id": "68013",
 				"num": 13,
 				"name": "Space Groove Rumble",
-				"chromas": true
+				"chromas": true,
+                "splash": "Rumble_13.png"
 			}],
 			"lore": "Rumble is a young inventor with a temper. Using nothing more than his own two hands and a heap of scrap, the feisty yordle constructed a colossal mech suit outfitted with an arsenal of electrified harpoons and incendiary rockets. Though others may scoff and sneer at his junkyard creations, Rumble doesn't mind—after all, he's the one with the flamespitter.",
 			"blurb": "Rumble is a young inventor with a temper. Using nothing more than his own two hands and a heap of scrap, the feisty yordle constructed a colossal mech suit outfitted with an arsenal of electrified harpoons and incendiary rockets. Though others may scoff...",
@@ -30382,7 +30473,7 @@
 			"title": "the Rune Mage",
 			"image": {
 				"full": "Ryze.png",
-				"sprite": "champion3.png",
+				"splash": "Ryze_0.png",
 				"group": "champion",
 				"x": 192,
 				"y": 48,
@@ -30393,72 +30484,87 @@
 				"id": "13000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Ryze_0.png"
+                
 			}, {
 				"id": "13001",
 				"num": 1,
 				"name": "Young Ryze",
-				"chromas": false
+				"chromas": false,
+                "splash": "Ryze_1.png"
 			}, {
 				"id": "13002",
 				"num": 2,
 				"name": "Tribal Ryze",
-				"chromas": false
+				"chromas": false,
+                "splash": "Ryze_2.png"
 			}, {
 				"id": "13003",
 				"num": 3,
 				"name": "Uncle Ryze",
-				"chromas": false
+				"chromas": false,
+                "splash": "Ryze_3.png"
 			}, {
 				"id": "13004",
 				"num": 4,
 				"name": "Triumphant Ryze",
-				"chromas": false
+				"chromas": false,
+                "splash": "Ryze_4.png"
 			}, {
 				"id": "13005",
 				"num": 5,
 				"name": "Professor Ryze",
-				"chromas": false
+				"chromas": false,
+                "splash": "Ryze_5.png"
 			}, {
 				"id": "13006",
 				"num": 6,
 				"name": "Zombie Ryze",
 				"chromas": false
+                "splash": "Ryze_6.png"
 			}, {
 				"id": "13007",
 				"num": 7,
 				"name": "Dark Crystal Ryze",
-				"chromas": false
+				"chromas": false,
+                "splash": "Ryze_7.png"
 			}, {
 				"id": "13008",
 				"num": 8,
 				"name": "Pirate Ryze",
-				"chromas": false
+				"chromas": false,
+                "splash": "Ryze_8.png"
 			}, {
 				"id": "13009",
 				"num": 9,
 				"name": "Ryze Whitebeard",
-				"chromas": false
+				"chromas": false,
+                "splash": "Ryze_9.png"
 			}, {
 				"id": "13010",
 				"num": 10,
 				"name": "SKT T1 Ryze",
-				"chromas": false
+				"chromas": false,
+                "splash": "Ryze_10.png"
 			}, {
 				"id": "13011",
 				"num": 11,
 				"name": "Championship Ryze",
-				"chromas": true
+				"chromas": true,
+                "splash": "Ryze_11.png"
 			}, {
 				"id": "13013",
 				"num": 13,
 				"name": "Guardian of the Sands Ryze",
-				"chromas": true
+				"chromas": true,
+                "splash": "Ryze_13.png"
 			}, {
 				"id": "13020",
 				"num": 20,
 				"name": "Arcana Ryze",
-				"chromas": true
+				"chromas": true,
+                "splash": "Ryze_20.png"
 			}],
 			"lore": "Widely considered one of the most adept sorcerers on Runeterra, Ryze is an ancient, hard-bitten archmage with an impossibly heavy burden to bear. Armed with immense arcane power and a boundless constitution, he tirelessly hunts for World Runes—fragments of the raw magic that once shaped the world from nothingness. He must retrieve these artifacts before they fall into the wrong hands, for Ryze understands the horrors they could unleash on Runeterra.",
 			"blurb": "Widely considered one of the most adept sorcerers on Runeterra, Ryze is an ancient, hard-bitten archmage with an impossibly heavy burden to bear. Armed with immense arcane power and a boundless constitution, he tirelessly hunts for World Runes—fragments...",
@@ -30685,7 +30791,7 @@
 			"title": "the Desert Rose",
 			"image": {
 				"full": "Samira.png",
-				"sprite": "champion3.png",
+				"splash": "Samira_0.png",
 				"group": "champion",
 				"x": 240,
 				"y": 48,
@@ -30696,22 +30802,26 @@
 				"id": "360000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Samira_0.png"
 			}, {
 				"id": "360001",
 				"num": 1,
 				"name": "PsyOps Samira",
-				"chromas": true
+				"chromas": true,
+                "splash": "Samira_1.png"
 			}, {
 				"id": "360010",
 				"num": 10,
 				"name": "Space Groove Samira",
-				"chromas": true
+				"chromas": true,
+                "splash": "Samira_10.png"
 			}, {
 				"id": "360020",
 				"num": 20,
 				"name": "High Noon Samira",
-				"chromas": true
+				"chromas": true,
+                "splash": "Samira_20.png"
 			}],
 			"lore": "Samira stares death in the eye with unyielding confidence, seeking thrill wherever she goes. After her Shuriman home was destroyed as a child, Samira found her true calling in Noxus, where she built a reputation as a stylish daredevil taking on dangerous missions of the highest caliber. Wielding black-powder pistols and a custom-engineered blade, Samira thrives in life-or-death circumstances, eliminating any who stand in her way with flash and flair.",
 			"blurb": "Samira stares death in the eye with unyielding confidence, seeking thrill wherever she goes. After her Shuriman home was destroyed as a child, Samira found her true calling in Noxus, where she built a reputation as a stylish daredevil taking on...",
@@ -30938,7 +31048,7 @@
 			"title": "Fury of the North",
 			"image": {
 				"full": "Sejuani.png",
-				"sprite": "champion3.png",
+				"splash": "Sejuani_0.png",
 				"group": "champion",
 				"x": 288,
 				"y": 48,
@@ -30949,62 +31059,74 @@
 				"id": "113000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sejuani_0.png"
 			}, {
 				"id": "113001",
 				"num": 1,
 				"name": "Sabretusk Sejuani",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sejuani_1.png"
 			}, {
 				"id": "113002",
 				"num": 2,
 				"name": "Darkrider Sejuani",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sejuani_2.png"
 			}, {
 				"id": "113003",
 				"num": 3,
 				"name": "Traditional Sejuani",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sejuani_3.png"
 			}, {
 				"id": "113004",
 				"num": 4,
 				"name": "Bear Cavalry Sejuani",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sejuani_4.png"
 			}, {
 				"id": "113005",
 				"num": 5,
 				"name": "Poro Rider Sejuani",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sejuani_5.png"
 			}, {
 				"id": "113006",
 				"num": 6,
 				"name": "Beast Hunter Sejuani",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sejuani_6.png"
 			}, {
 				"id": "113007",
 				"num": 7,
 				"name": "Sejuani Dawnchaser",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sejuani_7.png"
 			}, {
 				"id": "113008",
 				"num": 8,
 				"name": "Firecracker Sejuani",
-				"chromas": true
+				"chromas": true,
+                "splash": "Sejuani_8.png"
 			}, {
 				"id": "113015",
 				"num": 15,
 				"name": "Hextech Sejuani",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sejuani_15.png"
 			}, {
 				"id": "113016",
 				"num": 16,
 				"name": "PROJECT: Sejuani",
-				"chromas": true
+				"chromas": true,
+                "splash": "Sejuani_16.png"
 			}, {
 				"id": "113026",
 				"num": 26,
 				"name": "Solar Eclipse Sejuani",
-				"chromas": true
+				"chromas": true,
+                "splash": "Sejuani_26.png"
 			}],
 			"lore": "Sejuani is the brutal, unforgiving Iceborn warmother of the Winter's Claw, one of the most feared tribes of the Freljord. Her people's survival is a constant, desperate battle against the elements, forcing them to raid Noxians, Demacians, and Avarosans alike to survive the harsh winters. Sejuani herself spearheads the most dangerous of these attacks from the saddle of her drüvask boar Bristle, using her True Ice flail to freeze and shatter her enemies.",
 			"blurb": "Sejuani is the brutal, unforgiving Iceborn warmother of the Winter's Claw, one of the most feared tribes of the Freljord. Her people's survival is a constant, desperate battle against the elements, forcing them to raid Noxians, Demacians, and Avarosans...",
@@ -31231,7 +31353,7 @@
 			"title": "the Redeemer",
 			"image": {
 				"full": "Senna.png",
-				"sprite": "champion3.png",
+				"splash": "Senna_0.png",
 				"group": "champion",
 				"x": 336,
 				"y": 48,
@@ -31242,37 +31364,44 @@
 				"id": "235000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Senna_0.png"
 			}, {
 				"id": "235001",
 				"num": 1,
 				"name": "True Damage Senna",
-				"chromas": true
+				"chromas": true,
+                "splash": "Senna_1.png"
 			}, {
 				"id": "235009",
 				"num": 9,
 				"name": "Prestige True Damage Senna",
-				"chromas": false
+				"chromas": false,
+                "splash": "Senna_9.png"
 			}, {
 				"id": "235010",
 				"num": 10,
 				"name": "High Noon Senna",
-				"chromas": true
+				"chromas": true,
+                "splash": "Senna_10.png"
 			}, {
 				"id": "235016",
 				"num": 16,
 				"name": "PROJECT: Senna",
-				"chromas": true
+				"chromas": true,
+                "splash": "Senna_16.png"
 			}, {
 				"id": "235026",
 				"num": 26,
 				"name": "Lunar Eclipse Senna",
-				"chromas": true
+				"chromas": true,
+                "splash": "Senna_26.png"
 			}, {
 				"id": "235027",
 				"num": 27,
 				"name": "Prestige Lunar Eclipse Senna",
-				"chromas": false
+				"chromas": false,
+                "splash": "Senna_27.png"
 			}],
 			"lore": "Cursed from childhood to be haunted by the supernatural Black Mist, Senna joined a sacred order known as the Sentinels of Light, and fiercely fought back—only to be killed, her soul imprisoned in a lantern by the cruel wraith Thresh. But refusing to lose hope, within the lantern Senna learned to use the Mist, and reemerged to new life, forever changed. Now wielding darkness along with light, Senna seeks to end the Black Mist by turning it against itself—with every blast of her relic weapon, redeeming the souls lost within.",
 			"blurb": "Cursed from childhood to be haunted by the supernatural Black Mist, Senna joined a sacred order known as the Sentinels of Light, and fiercely fought back—only to be killed, her soul imprisoned in a lantern by the cruel wraith Thresh. But refusing to...",
@@ -31499,7 +31628,7 @@
 			"title": "the Starry-Eyed Songstress",
 			"image": {
 				"full": "Seraphine.png",
-				"sprite": "champion3.png",
+				"splash": "Seraphine_0.png",
 				"group": "champion",
 				"x": 384,
 				"y": 48,
@@ -31510,37 +31639,44 @@
 				"id": "147000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Seraphine_0.png"
 			}, {
 				"id": "147001",
 				"num": 1,
 				"name": "K/DA ALL OUT Seraphine Indie",
-				"chromas": false
+				"chromas": false,
+                "splash": "Seraphine_1.png"
 			}, {
 				"id": "147002",
 				"num": 2,
 				"name": "K/DA ALL OUT Seraphine Rising Star",
-				"chromas": false
+				"chromas": false,
+                "splash": "Seraphine_2.png"
 			}, {
 				"id": "147003",
 				"num": 3,
 				"name": "K/DA ALL OUT Seraphine Superstar",
-				"chromas": false
+				"chromas": false,
+                "splash": "Seraphine_3.png"
 			}, {
 				"id": "147004",
 				"num": 4,
 				"name": "Graceful Phoenix Seraphine",
-				"chromas": true
+				"chromas": true,
+                "splash": "Seraphine_4.png"
 			}, {
 				"id": "147014",
 				"num": 14,
 				"name": "Ocean Song Seraphine",
-				"chromas": true
+				"chromas": true,
+                "splash": "Seraphine_14.png"
 			}, {
 				"id": "147015",
 				"num": 15,
 				"name": "Prestige Ocean Song Seraphine",
-				"chromas": false
+				"chromas": false,
+                "splash": "Seraphine_13.png"
 			}],
 			"lore": "Born in Piltover to Zaunite parents, Seraphine can hear the souls of others—the world sings to her, and she sings back. Though these sounds overwhelmed her in her youth, she now draws on them for inspiration, turning the chaos into a symphony. She performs for the sister cities to remind their citizens that they're not alone, that they're stronger together, and that, in her eyes, their potential is limitless.",
 			"blurb": "Born in Piltover to Zaunite parents, Seraphine can hear the souls of others—the world sings to her, and she sings back. Though these sounds overwhelmed her in her youth, she now draws on them for inspiration, turning the chaos into a symphony. She...",
@@ -31767,7 +31903,7 @@
 			"title": "the Boss",
 			"image": {
 				"full": "Sett.png",
-				"sprite": "champion3.png",
+				"splash": "Sett_0.png",
 				"group": "champion",
 				"x": 432,
 				"y": 48,
@@ -31778,32 +31914,38 @@
 				"id": "875000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sett_0.png"
 			}, {
 				"id": "875001",
 				"num": 1,
 				"name": "Mecha Kingdoms Sett",
-				"chromas": true
+				"chromas": true,
+                "splash": "Sett_1.png"
 			}, {
 				"id": "875008",
 				"num": 8,
 				"name": "Obsidian Dragon Sett",
-				"chromas": true
+				"chromas": true,
+                "splash": "Sett_8.png"
 			}, {
 				"id": "875009",
 				"num": 9,
 				"name": "Prestige Obsidian Dragon Sett",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sett_9.png"
 			}, {
 				"id": "875010",
 				"num": 10,
 				"name": "Pool Party Sett",
-				"chromas": true
+				"chromas": true,
+                "splash": "Sett_10.png"
 			}, {
 				"id": "875019",
 				"num": 19,
 				"name": "Firecracker Sett",
-				"chromas": true
+				"chromas": true,
+                "splash": "Sett_19.png"
 			}],
 			"lore": "A leader of Ionia's growing criminal underworld, Sett rose to prominence in the wake of the war with Noxus. Though he began as a humble challenger in the fighting pits of Navori, he quickly gained notoriety for his savage strength, and his ability to take seemingly endless amounts of punishment. Now, having climbed through the ranks of local combatants, Sett has muscled to the top, reigning over the pits he once fought in.",
 			"blurb": "A leader of Ionia's growing criminal underworld, Sett rose to prominence in the wake of the war with Noxus. Though he began as a humble challenger in the fighting pits of Navori, he quickly gained notoriety for his savage strength, and his ability to...",
@@ -32030,7 +32172,7 @@
 			"title": "the Demon Jester",
 			"image": {
 				"full": "Shaco.png",
-				"sprite": "champion3.png",
+				"splash": "Shaco_0.png",
 				"group": "champion",
 				"x": 0,
 				"y": 96,
@@ -32041,57 +32183,68 @@
 				"id": "35000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Shaco_0.png"
 			}, {
 				"id": "35001",
 				"num": 1,
 				"name": "Mad Hatter Shaco",
-				"chromas": false
+				"chromas": false,
+                "splash": "Shaco_1.png"
 			}, {
 				"id": "35002",
 				"num": 2,
 				"name": "Royal Shaco",
-				"chromas": false
+				"chromas": false,
+                "splash": "Shaco_2.png"
 			}, {
 				"id": "35003",
 				"num": 3,
 				"name": "Nutcracko",
-				"chromas": false
+				"chromas": false,
+                "splash": "Shaco_3.png"
 			}, {
 				"id": "35004",
 				"num": 4,
 				"name": "Workshop Shaco",
-				"chromas": false
+				"chromas": false,
+                "splash": "Shaco_4.png"
 			}, {
 				"id": "35005",
 				"num": 5,
 				"name": "Asylum Shaco",
-				"chromas": false
+				"chromas": false,
+                "splash": "Shaco_5.png"
 			}, {
 				"id": "35006",
 				"num": 6,
 				"name": "Masked Shaco",
-				"chromas": false
+				"chromas": false,
+                "splash": "Shaco_6.png"
 			}, {
 				"id": "35007",
 				"num": 7,
 				"name": "Wild Card Shaco",
-				"chromas": false
+				"chromas": false,
+                "splash": "Shaco_7.png"
 			}, {
 				"id": "35008",
 				"num": 8,
 				"name": "Dark Star Shaco",
-				"chromas": true
+				"chromas": true,
+                "splash": "Shaco_8.png"
 			}, {
 				"id": "35015",
 				"num": 15,
 				"name": "Arcanist Shaco",
-				"chromas": true
+				"chromas": true,
+                "splash": "Shaco_15.png"
 			}, {
 				"id": "35023",
 				"num": 23,
 				"name": "Crime City Nightmare Shaco",
-				"chromas": true
+				"chromas": true,
+                "splash": "Shaco_23.png"
 			}],
 			"lore": "Crafted long ago as a plaything for a lonely prince, the enchanted marionette Shaco now delights in murder and mayhem. Corrupted by dark magic and the loss of his beloved charge, the once-kind puppet finds pleasure only in the misery of the poor souls he torments. He uses toys and simple tricks to deadly effect, finding the results of his bloody “games” hilarious—and for those who hear a dark chuckle in the dead of night, the Demon Jester may have marked them as his next plaything.",
 			"blurb": "Crafted long ago as a plaything for a lonely prince, the enchanted marionette Shaco now delights in murder and mayhem. Corrupted by dark magic and the loss of his beloved charge, the once-kind puppet finds pleasure only in the misery of the poor souls...",
@@ -32318,7 +32471,7 @@
 			"title": "the Eye of Twilight",
 			"image": {
 				"full": "Shen.png",
-				"sprite": "champion3.png",
+				"splash": "Shen_0.png",
 				"group": "champion",
 				"x": 48,
 				"y": 96,
@@ -32329,57 +32482,68 @@
 				"id": "98000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Shen_0.png"
 			}, {
 				"id": "98001",
 				"num": 1,
 				"name": "Frozen Shen",
-				"chromas": false
+				"chromas": false,
+                "splash": "Shen_1.png"
 			}, {
 				"id": "98002",
 				"num": 2,
 				"name": "Yellow Jacket Shen",
-				"chromas": false
+				"chromas": false,
+                "splash": "Shen_2.png"
 			}, {
 				"id": "98003",
 				"num": 3,
 				"name": "Surgeon Shen",
-				"chromas": true
+				"chromas": true,
+                "splash": "Shen_3.png"
 			}, {
 				"id": "98004",
 				"num": 4,
 				"name": "Blood Moon Shen",
-				"chromas": false
+				"chromas": false,
+                "splash": "Shen_4.png"
 			}, {
 				"id": "98005",
 				"num": 5,
 				"name": "Warlord Shen",
-				"chromas": true
+				"chromas": true,
+                "splash": "Shen_5.png"
 			}, {
 				"id": "98006",
 				"num": 6,
 				"name": "TPA Shen",
-				"chromas": false
+				"chromas": false,
+                "splash": "Shen_6.png"
 			}, {
 				"id": "98015",
 				"num": 15,
 				"name": "Pulsefire Shen",
-				"chromas": true
+				"chromas": true,
+                "splash": "Shen_15.png"
 			}, {
 				"id": "98016",
 				"num": 16,
 				"name": "Infernal Shen",
-				"chromas": true
+				"chromas": true,
+                "splash": "Shen_16.png"
 			}, {
 				"id": "98022",
 				"num": 22,
 				"name": "PsyOps Shen",
-				"chromas": true
+				"chromas": true,
+                "splash": "Shen_22.png"
 			}, {
 				"id": "98040",
 				"num": 40,
 				"name": "Shockblade Shen",
-				"chromas": true
+				"chromas": true,
+                "splash": "Shen_40.png"
 			}],
 			"lore": "Among the secretive, Ionian warriors known as the Kinkou, Shen serves as their leader, the Eye of Twilight. He longs to remain free from the confusion of emotion, prejudice, and ego, and walks the unseen path of dispassionate judgment between the spirit realm and the physical world. Tasked with enforcing the equilibrium between them, Shen wields blades of steel and arcane energy against any who would threaten it.",
 			"blurb": "Among the secretive, Ionian warriors known as the Kinkou, Shen serves as their leader, the Eye of Twilight. He longs to remain free from the confusion of emotion, prejudice, and ego, and walks the unseen path of dispassionate judgment between the spirit...",
@@ -32606,7 +32770,7 @@
 			"title": "the Half-Dragon",
 			"image": {
 				"full": "Shyvana.png",
-				"sprite": "champion3.png",
+				"splash": "Shyvana_0.png",
 				"group": "champion",
 				"x": 96,
 				"y": 96,
@@ -32617,42 +32781,50 @@
 				"id": "102000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Shyvana_0.png"
 			}, {
 				"id": "102001",
 				"num": 1,
 				"name": "Ironscale Shyvana",
-				"chromas": false
+				"chromas": false,
+                "splash": "Shyvana_1.png"
 			}, {
 				"id": "102002",
 				"num": 2,
 				"name": "Boneclaw Shyvana",
-				"chromas": false
+				"chromas": false,
+                "splash": "Shyvana_2.png"
 			}, {
 				"id": "102003",
 				"num": 3,
 				"name": "Darkflame Shyvana",
-				"chromas": false
+				"chromas": false,
+                "splash": "Shyvana_3.png"
 			}, {
 				"id": "102004",
 				"num": 4,
 				"name": "Ice Drake Shyvana",
-				"chromas": false
+				"chromas": false,
+                "splash": "Shyvana_4.png"
 			}, {
 				"id": "102005",
 				"num": 5,
 				"name": "Championship Shyvana",
-				"chromas": true
+				"chromas": true,
+                "splash": "Shyvana_5.png"
 			}, {
 				"id": "102006",
 				"num": 6,
 				"name": "Super Galaxy Shyvana",
-				"chromas": false
+				"chromas": false,
+                "splash": "Shyvana_6.png"
 			}, {
 				"id": "102008",
 				"num": 8,
 				"name": "Ruined Shyvana",
-				"chromas": true
+				"chromas": true,
+                "splash": "Shyvana_8.png"
 			}],
 			"lore": "Shyvana is a creature with the magic of a rune shard burning within her heart. Though she often appears humanoid, she can take her true form as a fearsome dragon, incinerating her foes with fiery breath. Having saved the life of the crown prince Jarvan IV, Shyvana now serves uneasily in his royal guard, struggling to find acceptance among the suspicious people of Demacia.",
 			"blurb": "Shyvana is a creature with the magic of a rune shard burning within her heart. Though she often appears humanoid, she can take her true form as a fearsome dragon, incinerating her foes with fiery breath. Having saved the life of the crown prince Jarvan...",
@@ -32879,7 +33051,7 @@
 			"title": "the Mad Chemist",
 			"image": {
 				"full": "Singed.png",
-				"sprite": "champion3.png",
+				"splash": "Singed_0.png",
 				"group": "champion",
 				"x": 144,
 				"y": 96,
@@ -32890,57 +33062,68 @@
 				"id": "27000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Singed_0.png"
 			}, {
 				"id": "27001",
 				"num": 1,
 				"name": "Riot Squad Singed",
-				"chromas": false
+				"chromas": false,
+                "splash": "Singed_1.png"
 			}, {
 				"id": "27002",
 				"num": 2,
 				"name": "Hextech Singed",
-				"chromas": false
+				"chromas": false,
+                "splash": "Singed_2.png"
 			}, {
 				"id": "27003",
 				"num": 3,
 				"name": "Surfer Singed",
-				"chromas": false
+				"chromas": false,
+                "splash": "Singed_3.png"
 			}, {
 				"id": "27004",
 				"num": 4,
 				"name": "Mad Scientist Singed",
-				"chromas": false
+				"chromas": false,
+                "splash": "Singed_4.png"
 			}, {
 				"id": "27005",
 				"num": 5,
 				"name": "Augmented Singed",
-				"chromas": false
+				"chromas": false,
+                "splash": "Singed_5.png"
 			}, {
 				"id": "27006",
 				"num": 6,
 				"name": "Snow Day Singed",
-				"chromas": false
+				"chromas": false,
+                "splash": "Singed_6.png"
 			}, {
 				"id": "27007",
 				"num": 7,
 				"name": "SSW Singed",
-				"chromas": false
+				"chromas": false,
+                "splash": "Singed_7.png"
 			}, {
 				"id": "27008",
 				"num": 8,
 				"name": "Black Scourge Singed",
-				"chromas": false
+				"chromas": false,
+                "splash": "Singed_8.png"
 			}, {
 				"id": "27009",
 				"num": 9,
 				"name": "Beekeeper Singed",
-				"chromas": false
+				"chromas": false,
+                "splash": "Singed_9.png"
 			}, {
 				"id": "27010",
 				"num": 10,
 				"name": "Resistance Singed",
-				"chromas": true
+				"chromas": true,
+                "splash": "Singed_10.png"
 			}],
 			"lore": "Singed is a Zaunite alchemist of unmatched intellect, who has devoted his life to pushing the boundaries of knowledge—with no price, even his own sanity, too high to pay. Is there a method to his madness? His concoctions rarely fail, but it appears to many that Singed has lost all sense of humanity, leaving a toxic trail of misery and terror in his wake.",
 			"blurb": "Singed is a Zaunite alchemist of unmatched intellect, who has devoted his life to pushing the boundaries of knowledge—with no price, even his own sanity, too high to pay. Is there a method to his madness? His concoctions rarely fail, but it appears to...",
@@ -33167,7 +33350,7 @@
 			"title": "The Undead Juggernaut",
 			"image": {
 				"full": "Sion.png",
-				"sprite": "champion3.png",
+				"splash": "Sion_0.png",
 				"group": "champion",
 				"x": 192,
 				"y": 96,
@@ -33178,47 +33361,57 @@
 				"id": "14000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sion_0.png",
+                "splash": "Sion_0.png"
 			}, {
 				"id": "14001",
 				"num": 1,
 				"name": "Hextech Sion",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sion_1.png"
 			}, {
 				"id": "14002",
 				"num": 2,
 				"name": "Barbarian Sion",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sion_2.png"
 			}, {
 				"id": "14003",
 				"num": 3,
 				"name": "Lumberjack Sion",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sion_3.png"
 			}, {
 				"id": "14004",
 				"num": 4,
 				"name": "Warmonger Sion",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sion_4.png"
 			}, {
 				"id": "14005",
 				"num": 5,
 				"name": "Mecha Zero Sion",
-				"chromas": true
+				"chromas": true,
+                "splash": "Sion_5.png"
 			}, {
 				"id": "14014",
 				"num": 14,
 				"name": "Worldbreaker Sion",
-				"chromas": true
+				"chromas": true,
+                "splash": "Sion_14.png"
 			}, {
 				"id": "14022",
 				"num": 22,
 				"name": "Blackfrost Sion",
-				"chromas": true
+				"chromas": true,
+                "splash": "Sion_22.png"
 			}, {
 				"id": "14030",
 				"num": 30,
 				"name": "High Noon Sion",
-				"chromas": true
+				"chromas": true,
+                "splash": "Sion_30.png"
 			}],
 			"lore": "A war hero from a bygone era, Sion was revered in Noxus for choking the life out of a Demacian king with his bare hands—but, denied oblivion, he was resurrected to serve his empire even in death. His indiscriminate slaughter claimed all who stood in his way, regardless of allegiance, proving he no longer retained his former humanity. Even so, with crude armor bolted onto rotten flesh, Sion continues to charge into battle with reckless abandon, struggling to remember his true self between the swings of his mighty axe.",
 			"blurb": "A war hero from a bygone era, Sion was revered in Noxus for choking the life out of a Demacian king with his bare hands—but, denied oblivion, he was resurrected to serve his empire even in death. His indiscriminate slaughter claimed all who stood in his...",
@@ -33445,7 +33638,7 @@
 			"title": "the Battle Mistress",
 			"image": {
 				"full": "Sivir.png",
-				"sprite": "champion3.png",
+				"splash": "Sivir_0.png",
 				"group": "champion",
 				"x": 240,
 				"y": 96,
@@ -33456,77 +33649,92 @@
 				"id": "15000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sivir_0.png"
 			}, {
 				"id": "15001",
 				"num": 1,
 				"name": "Warrior Princess Sivir",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sivir_1.png"
 			}, {
 				"id": "15002",
 				"num": 2,
 				"name": "Spectacular Sivir",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sivir_2.png"
 			}, {
 				"id": "15003",
 				"num": 3,
 				"name": "Huntress Sivir",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sivir_3.png"
 			}, {
 				"id": "15004",
 				"num": 4,
 				"name": "Bandit Sivir",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sivir_4.png"
 			}, {
 				"id": "15005",
 				"num": 5,
 				"name": "PAX Sivir",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sivir_5.png"
 			}, {
 				"id": "15006",
 				"num": 6,
 				"name": "Snowstorm Sivir",
-				"chromas": true
+				"chromas": true,
+                "splash": "Sivir_6.png"
 			}, {
 				"id": "15007",
 				"num": 7,
 				"name": "Warden Sivir",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sivir_7.png"
 			}, {
 				"id": "15008",
 				"num": 8,
 				"name": "Victorious Sivir",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sivir_8.png"
 			}, {
 				"id": "15009",
 				"num": 9,
 				"name": "Neo PAX Sivir",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sivir_9.png"
 			}, {
 				"id": "15010",
 				"num": 10,
 				"name": "Pizza Delivery Sivir",
-				"chromas": true
+				"chromas": true,
+                "splash": "Sivir_10.png"
 			}, {
 				"id": "15016",
 				"num": 16,
 				"name": "Blood Moon Sivir",
-				"chromas": true
+				"chromas": true,
+                "splash": "Sivir_16.png"
 			}, {
 				"id": "15025",
 				"num": 25,
 				"name": "Odyssey Sivir",
-				"chromas": true
+				"chromas": true,
+                "splash": "Sivir_25.png"
 			}, {
 				"id": "15034",
 				"num": 34,
 				"name": "Cafe Cuties Sivir",
-				"chromas": true
+				"chromas": true,
+                "splash": "Sivir_34.png"
 			}, {
 				"id": "15043",
 				"num": 43,
 				"name": "Solar Eclipse Sivir",
-				"chromas": true
+				"chromas": true,
+                "splash": "Sivir_43.png"
 			}],
 			"lore": "Sivir is a renowned fortune hunter and mercenary captain who plies her trade in the deserts of Shurima. Armed with her legendary jeweled crossblade, she has fought and won countless battles for those who can afford her exorbitant price. Known for her fearless resolve and endless ambition, she prides herself on recovering buried treasures from the perilous tombs of Shurima—for a generous bounty. With ancient forces stirring the very bones of Shurima, Sivir finds herself torn between conflicting destinies.",
 			"blurb": "Sivir is a renowned fortune hunter and mercenary captain who plies her trade in the deserts of Shurima. Armed with her legendary jeweled crossblade, she has fought and won countless battles for those who can afford her exorbitant price. Known for her...",
@@ -33753,7 +33961,7 @@
 			"title": "the Crystal Vanguard",
 			"image": {
 				"full": "Skarner.png",
-				"sprite": "champion3.png",
+				"splash": "Skarner_0.png",
 				"group": "champion",
 				"x": 288,
 				"y": 96,
@@ -33764,32 +33972,38 @@
 				"id": "72000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Skarner_0.png"
 			}, {
 				"id": "72001",
 				"num": 1,
 				"name": "Sandscourge Skarner",
-				"chromas": false
+				"chromas": false,
+                "splash": "Skarner_1.png"
 			}, {
 				"id": "72002",
 				"num": 2,
 				"name": "Earthrune Skarner",
-				"chromas": false
+				"chromas": false,
+                "splash": "Skarner_2.png"
 			}, {
 				"id": "72003",
 				"num": 3,
 				"name": "Battlecast Alpha Skarner",
-				"chromas": false
+				"chromas": false,
+                "splash": "Skarner_3.png"
 			}, {
 				"id": "72004",
 				"num": 4,
 				"name": "Guardian of the Sands Skarner",
-				"chromas": false
+				"chromas": false,
+                "splash": "Skarner_4.png"
 			}, {
 				"id": "72005",
 				"num": 5,
 				"name": "Cosmic Sting Skarner",
-				"chromas": true
+				"chromas": true,
+                "splash": "Skarner_5.png"
 			}],
 			"lore": "Skarner is an immense crystalline scorpion from a hidden valley in Shurima. Part of the ancient Brackern race, Skarner and his kin are known for their great wisdom and deep connection to the land, as their souls are fused with powerful life crystals which hold the living thoughts and memories of their ancestors. In an age long past, the Brackern entered hibernation to avoid untold magical destruction, but recent, threatening events have roused Skarner. As the only Brackern awake, he strives to protect his kind from those who seek to harm them.",
 			"blurb": "Skarner is an immense crystalline scorpion from a hidden valley in Shurima. Part of the ancient Brackern race, Skarner and his kin are known for their great wisdom and deep connection to the land, as their souls are fused with powerful life crystals...",
@@ -34016,7 +34230,7 @@
 			"title": "Maven of the Strings",
 			"image": {
 				"full": "Sona.png",
-				"sprite": "champion3.png",
+				"splash": "Sona_0.png",
 				"group": "champion",
 				"x": 336,
 				"y": 96,
@@ -34027,57 +34241,68 @@
 				"id": "37000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sona_0.png"
 			}, {
 				"id": "37001",
 				"num": 1,
 				"name": "Muse Sona",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sona_1.png"
 			}, {
 				"id": "37002",
 				"num": 2,
 				"name": "Pentakill Sona",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sona_2.png"
 			}, {
 				"id": "37003",
 				"num": 3,
 				"name": "Silent Night Sona",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sona_3.png"
 			}, {
 				"id": "37004",
 				"num": 4,
 				"name": "Guqin Sona",
-				"chromas": true
+				"chromas": true,
+                "splash": "Sona_4.png"
 			}, {
 				"id": "37005",
 				"num": 5,
 				"name": "Arcade Sona",
-				"chromas": true
+				"chromas": true,
+                "splash": "Sona_5.png"
 			}, {
 				"id": "37006",
 				"num": 6,
 				"name": "DJ Sona",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sona_6.png"
 			}, {
 				"id": "37007",
 				"num": 7,
 				"name": "Sweetheart Sona",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sona_7.png"
 			}, {
 				"id": "37009",
 				"num": 9,
 				"name": "Odyssey Sona",
-				"chromas": true
+				"chromas": true,
+                "splash": "Sona_9.png"
 			}, {
 				"id": "37017",
 				"num": 17,
 				"name": "PsyOps Sona",
-				"chromas": true
+				"chromas": true,
+                "splash": "Sona_17.png"
 			}, {
 				"id": "37026",
 				"num": 26,
 				"name": "Pentakill III: Lost Chapter Sona",
-				"chromas": true
+				"chromas": true,
+                "splash": "Sona_26.png"
 			}],
 			"lore": "Sona is Demacia's foremost virtuoso of the stringed etwahl, speaking only through her graceful chords and vibrant arias. This genteel manner has endeared her to the highborn, though others suspect her spellbinding melodies to actually emanate magic—a Demacian taboo. Silent to outsiders but somehow understood by close companions, Sona plucks her harmonies not only to soothe injured allies, but also to strike down unsuspecting enemies.",
 			"blurb": "Sona is Demacia's foremost virtuoso of the stringed etwahl, speaking only through her graceful chords and vibrant arias. This genteel manner has endeared her to the highborn, though others suspect her spellbinding melodies to actually emanate magic—a...",
@@ -34304,7 +34529,7 @@
 			"title": "the Starchild",
 			"image": {
 				"full": "Soraka.png",
-				"sprite": "champion3.png",
+				"splash": "Son_0.png",
 				"group": "champion",
 				"x": 384,
 				"y": 96,
@@ -34607,7 +34832,8 @@
 			"title": "the Noxian Grand General",
 			"image": {
 				"full": "Swain.png",
-				"sprite": "champion3.png",
+				,
+                "splash": "Swain_0.png",
 				"group": "champion",
 				"x": 432,
 				"y": 96,
@@ -34618,37 +34844,44 @@
 				"id": "50000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Swain_0.png"
 			}, {
 				"id": "50001",
 				"num": 1,
 				"name": "Northern Front Swain",
-				"chromas": false
+				"chromas": false,
+                "splash": "Swain_1.png"
 			}, {
 				"id": "50002",
 				"num": 2,
 				"name": "Bilgewater Swain",
-				"chromas": false
+				"chromas": false,
+                "splash": "Swain_2.png"
 			}, {
 				"id": "50003",
 				"num": 3,
 				"name": "Tyrant Swain",
-				"chromas": false
+				"chromas": false,
+                "splash": "Swain_3.png"
 			}, {
 				"id": "50004",
 				"num": 4,
 				"name": "Dragon Master Swain",
-				"chromas": true
+				"chromas": true,
+                "splash": "Swain_4.png"
 			}, {
 				"id": "50011",
 				"num": 11,
 				"name": "Hextech Swain",
-				"chromas": false
+				"chromas": false,
+                "splash": "Swain_11.png"
 			}, {
 				"id": "50012",
 				"num": 12,
 				"name": "Crystal Rose Swain",
-				"chromas": true
+				"chromas": true,
+                "splash": "Swain_12.png"
 			}],
 			"lore": "Jericho Swain is the visionary ruler of Noxus, an expansionist nation that reveres only strength. Though he was cast down and crippled in the Ionian wars, his left arm severed, he seized control of the empire with ruthless determination… and a new, demonic hand. Now, Swain commands from the front lines, marching against a coming darkness that only he can see—in glimpses gathered by shadowy ravens from the corpses all around him. In a swirl of sacrifice and secrets, the greatest secret of all is that the true enemy lies within.",
 			"blurb": "Jericho Swain is the visionary ruler of Noxus, an expansionist nation that reveres only strength. Though he was cast down and crippled in the Ionian wars, his left arm severed, he seized control of the empire with ruthless determination… and a new...",
@@ -34874,7 +35107,8 @@
 			"title": "the Unshackled",
 			"image": {
 				"full": "Sylas.png",
-				"sprite": "champion4.png",
+				,
+                "splash": "Sylas_0.png",
 				"group": "champion",
 				"x": 0,
 				"y": 0,
@@ -34885,32 +35119,38 @@
 				"id": "517000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sylas_0.png"
 			}, {
 				"id": "517001",
 				"num": 1,
 				"name": "Lunar Wraith Sylas",
-				"chromas": true
+				"chromas": true,
+                "splash": "Sylas_1.png"
 			}, {
 				"id": "517008",
 				"num": 8,
 				"name": "Freljord Sylas",
-				"chromas": true
+				"chromas": true,
+                "splash": "Sylas_8.png"
 			}, {
 				"id": "517013",
 				"num": 13,
 				"name": "PROJECT: Sylas",
-				"chromas": true
+				"chromas": true,
+                "splash": "Sylas_13.png"
 			}, {
 				"id": "517014",
 				"num": 14,
 				"name": "Prestige PROJECT: Sylas",
-				"chromas": false
+				"chromas": false,
+                "splash": "Sylas_14.png"
 			}, {
 				"id": "517024",
 				"num": 24,
 				"name": "Battle Wolf Sylas",
-				"chromas": true
+				"chromas": true,
+                "splash": "Sylas_24.png"
 			}],
 			"lore": "Raised in one of Demacia's lesser quarters, Sylas of Dregbourne has come to symbolize the darker side of the Great City. As a boy, his ability to root out hidden sorcery caught the attention of the notorious mageseekers, who eventually imprisoned him for turning those same powers against them. Having now broken free, Sylas lives as a hardened revolutionary, using the magic of those around him to destroy the kingdom he once served… and his band of outcast mage followers seems to grow by the day.",
 			"blurb": "Raised in one of Demacia's lesser quarters, Sylas of Dregbourne has come to symbolize the darker side of the Great City. As a boy, his ability to root out hidden sorcery caught the attention of the notorious mageseekers, who eventually imprisoned him...",
@@ -35137,7 +35377,7 @@
 			"title": "the Dark Sovereign",
 			"image": {
 				"full": "Syndra.png",
-				"sprite": "champion4.png",
+				"splash": "Syndra_0.png",
 				"group": "champion",
 				"x": 48,
 				"y": 0,
@@ -35148,52 +35388,62 @@
 				"id": "134000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Syndra_0.png"
 			}, {
 				"id": "134001",
 				"num": 1,
 				"name": "Justicar Syndra",
-				"chromas": false
+				"chromas": false,
+                "splash": "Syndra_1.png"
 			}, {
 				"id": "134002",
 				"num": 2,
 				"name": "Atlantean Syndra",
-				"chromas": false
+				"chromas": false,
+                "splash": "Syndra_2.png"
 			}, {
 				"id": "134003",
 				"num": 3,
 				"name": "Queen of Diamonds Syndra",
-				"chromas": false
+				"chromas": false,
+                "splash": "Syndra_3.png"
 			}, {
 				"id": "134004",
 				"num": 4,
 				"name": "Snow Day Syndra",
-				"chromas": false
+				"chromas": false,
+                "splash": "Syndra_4.png"
 			}, {
 				"id": "134005",
 				"num": 5,
 				"name": "SKT T1 Syndra",
-				"chromas": false
+				"chromas": false,
+                "splash": "Syndra_5.png"
 			}, {
 				"id": "134006",
 				"num": 6,
 				"name": "Star Guardian Syndra",
-				"chromas": false
+				"chromas": false,
+                "splash": "Syndra_6.png"
 			}, {
 				"id": "134007",
 				"num": 7,
 				"name": "Pool Party Syndra",
-				"chromas": true
+				"chromas": true,
+                "splash": "Syndra_7.png"
 			}, {
 				"id": "134016",
 				"num": 16,
 				"name": "Withered Rose Syndra",
-				"chromas": true
+				"chromas": true,
+                "splash": "Syndra_16.png"
 			}, {
 				"id": "134025",
 				"num": 25,
 				"name": "Bewitching Syndra",
-				"chromas": true
+				"chromas": true,
+                "splash": "Syndra_25.png"
 			}],
 			"lore": "Syndra is a fearsome Ionian mage with incredible power at her command. As a child, she disturbed the village elders with her reckless and wild magic. She was sent away to be taught greater control, but eventually discovered her supposed mentor was restraining her abilities. Forming her feelings of betrayal and hurt into dark spheres of energy, Syndra has sworn to destroy all who would try to control her.",
 			"blurb": "Syndra is a fearsome Ionian mage with incredible power at her command. As a child, she disturbed the village elders with her reckless and wild magic. She was sent away to be taught greater control, but eventually discovered her supposed mentor was...",
@@ -35420,7 +35670,7 @@
 			"title": "The River King",
 			"image": {
 				"full": "TahmKench.png",
-				"sprite": "champion4.png",
+				"splash": "TahmKench_0.png",
 				"group": "champion",
 				"x": 96,
 				"y": 0,
@@ -35431,32 +35681,38 @@
 				"id": "223000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "TahmKench_0.png"
 			}, {
 				"id": "223001",
 				"num": 1,
 				"name": "Master Chef Tahm Kench",
-				"chromas": false
+				"chromas": false,
+                "splash": "TahmKench_1.png"
 			}, {
 				"id": "223002",
 				"num": 2,
 				"name": "Urf Kench",
-				"chromas": false
+				"chromas": false,
+                "splash": "TahmKench_2.png"
 			}, {
 				"id": "223003",
 				"num": 3,
 				"name": "Coin Emperor Tahm Kench",
-				"chromas": true
+				"chromas": true,
+                "splash": "TahmKench_3.png"
 			}, {
 				"id": "223011",
 				"num": 11,
 				"name": "Arcana Tahm Kench",
-				"chromas": false
+				"chromas": false,
+                "splash": "TahmKench_11.png"
 			}, {
 				"id": "223020",
 				"num": 20,
 				"name": "High Noon Tahm Kench",
-				"chromas": false
+				"chromas": false,
+                "splash": "TahmKench_20.png"
 			}],
 			"lore": "Known by many names throughout history, the demon Tahm Kench travels the waterways of Runeterra, feeding his insatiable appetite with the misery of others. Though he may appear singularly charming and proud, he swaggers through the physical realm like a vagabond in search of unsuspecting prey. His lashing tongue can stun even a heavily armored warrior from a dozen paces, and to fall into his rumbling belly is to tumble into an abyss from which there is little hope of return.",
 			"blurb": "Known by many names throughout history, the demon Tahm Kench travels the waterways of Runeterra, feeding his insatiable appetite with the misery of others. Though he may appear singularly charming and proud, he swaggers through the physical realm like a...",
@@ -35683,7 +35939,7 @@
 			"title": "the Stoneweaver",
 			"image": {
 				"full": "Taliyah.png",
-				"sprite": "champion4.png",
+				"splash": "Taliyah_0.png",
 				"group": "champion",
 				"x": 144,
 				"y": 0,
@@ -35694,22 +35950,26 @@
 				"id": "163000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Taliyah_0.png"
 			}, {
 				"id": "163001",
 				"num": 1,
 				"name": "Freljord Taliyah",
-				"chromas": false
+				"chromas": false,
+                "splash": "Taliyah_1.png"
 			}, {
 				"id": "163002",
 				"num": 2,
 				"name": "SSG Taliyah",
-				"chromas": false
+				"chromas": false,
+                "splash": "Taliyah_2.png"
 			}, {
 				"id": "163003",
 				"num": 3,
 				"name": "Pool Party Taliyah",
-				"chromas": true
+				"chromas": true,
+                "splash": "Taliyah_3.png"
 			}],
 			"lore": "Taliyah is a nomadic mage from Shurima, torn between teenage wonder and adult responsibility. She has crossed nearly all of Valoran on a journey to learn the true nature of her growing powers, though more recently she has returned to protect her tribe. Some have mistaken her compassion for weakness and paid the ultimate price—for beneath Taliyah's youthful demeanor is a will strong enough to move mountains, and a spirit fierce enough to make the earth itself tremble.",
 			"blurb": "Taliyah is a nomadic mage from Shurima, torn between teenage wonder and adult responsibility. She has crossed nearly all of Valoran on a journey to learn the true nature of her growing powers, though more recently she has returned to protect her tribe...",
@@ -35936,7 +36196,7 @@
 			"title": "the Blade's Shadow",
 			"image": {
 				"full": "Talon.png",
-				"sprite": "champion4.png",
+				"splash": "Talon_0.png",
 				"group": "champion",
 				"x": 192,
 				"y": 0,
@@ -35947,57 +36207,68 @@
 				"id": "91000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Talon_0.png"
 			}, {
 				"id": "91001",
 				"num": 1,
 				"name": "Renegade Talon",
-				"chromas": false
+				"chromas": false,
+                "splash": "Talon_1.png"
 			}, {
 				"id": "91002",
 				"num": 2,
 				"name": "Crimson Elite Talon",
-				"chromas": false
+				"chromas": false,
+                "splash": "Talon_2.png"
 			}, {
 				"id": "91003",
 				"num": 3,
 				"name": "Dragonblade Talon",
-				"chromas": true
+				"chromas": true,
+                "splash": "Talon_3.png"
 			}, {
 				"id": "91004",
 				"num": 4,
 				"name": "SSW Talon",
-				"chromas": false
+				"chromas": false,
+                "splash": "Talon_4.png"
 			}, {
 				"id": "91005",
 				"num": 5,
 				"name": "Blood Moon Talon",
-				"chromas": false
+				"chromas": false,
+                "splash": "Talon_5.png"
 			}, {
 				"id": "91012",
 				"num": 12,
 				"name": "Enduring Sword Talon",
-				"chromas": true
+				"chromas": true,
+                "splash": "Talon_12.png"
 			}, {
 				"id": "91020",
 				"num": 20,
 				"name": "Talon Blackwood",
-				"chromas": true
+				"chromas": true,
+                "splash": "Talon_20.png"
 			}, {
 				"id": "91029",
 				"num": 29,
 				"name": "Withered Rose Talon",
-				"chromas": true
+				"chromas": true,
+                "splash": "Talon_29.png"
 			}, {
 				"id": "91038",
 				"num": 38,
 				"name": "High Noon Talon",
-				"chromas": true
+				"chromas": true,
+                "splash": "Talon_38.png"
 			}, {
 				"id": "91039",
 				"num": 39,
 				"name": "Prestige High Noon Talon",
-				"chromas": false
+				"chromas": false,
+                "splash": "Talon_39.png"
 			}],
 			"lore": "Talon is the knife in the darkness, a merciless killer able to strike without warning and escape before any alarm is raised. He carved out a dangerous reputation on the brutal streets of Noxus, where he was forced to fight, kill, and steal to survive. Adopted by the notorious Du Couteau family, he now plies his deadly trade at the empire's command, assassinating enemy leaders, captains, and heroes… as well as any Noxian foolish enough to earn the scorn of their masters.",
 			"blurb": "Talon is the knife in the darkness, a merciless killer able to strike without warning and escape before any alarm is raised. He carved out a dangerous reputation on the brutal streets of Noxus, where he was forced to fight, kill, and steal to survive...",
@@ -36224,7 +36495,7 @@
 			"title": "the Shield of Valoran",
 			"image": {
 				"full": "Taric.png",
-				"sprite": "champion4.png",
+				"splash": "Taric_0.png",
 				"group": "champion",
 				"x": 240,
 				"y": 0,
@@ -36235,32 +36506,38 @@
 				"id": "44000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Taric_0.png"
 			}, {
 				"id": "44001",
 				"num": 1,
 				"name": "Emerald Taric",
-				"chromas": false
+				"chromas": false,
+                "splash": "Taric_1.png"
 			}, {
 				"id": "44002",
 				"num": 2,
 				"name": "Armor of the Fifth Age Taric",
-				"chromas": false
+				"chromas": false,
+                "splash": "Taric_2.png"
 			}, {
 				"id": "44003",
 				"num": 3,
 				"name": "Bloodstone Taric",
-				"chromas": false
+				"chromas": false,
+                "splash": "Taric_3.png"
 			}, {
 				"id": "44004",
 				"num": 4,
 				"name": "Pool Party Taric",
-				"chromas": true
+				"chromas": true,
+                "splash": "Taric_4.png"
 			}, {
 				"id": "44009",
 				"num": 9,
 				"name": "Taric Luminshield",
-				"chromas": true
+				"chromas": true,
+                "splash": "Taric_9.png"
 			}],
 			"lore": "Taric is the Aspect of the Protector, wielding incredible power as Runeterra's guardian of life, love, and beauty. Shamed by a dereliction of duty and exiled from his homeland Demacia, Taric ascended Mount Targon to find redemption, only to discover a higher calling among the stars. Imbued with the might of ancient Targon, the Shield of Valoran now stands ever vigilant against the insidious corruption of the Void.",
 			"blurb": "Taric is the Aspect of the Protector, wielding incredible power as Runeterra's guardian of life, love, and beauty. Shamed by a dereliction of duty and exiled from his homeland Demacia, Taric ascended Mount Targon to find redemption, only to discover a...",
@@ -36487,7 +36764,7 @@
 			"title": "the Swift Scout",
 			"image": {
 				"full": "Teemo.png",
-				"sprite": "champion4.png",
+				"splash": "Teemo_0.png",
 				"group": "champion",
 				"x": 288,
 				"y": 0,
@@ -36498,72 +36775,86 @@
 				"id": "17000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Teemo_0.png"
 			}, {
 				"id": "17001",
 				"num": 1,
 				"name": "Happy Elf Teemo",
-				"chromas": false
+				"chromas": false,
+                "splash": "Teemo_1.png"
 			}, {
 				"id": "17002",
 				"num": 2,
 				"name": "Recon Teemo",
-				"chromas": false
+				"chromas": false,
+                "splash": "Teemo_2.png"
 			}, {
 				"id": "17003",
 				"num": 3,
 				"name": "Badger Teemo",
-				"chromas": false
+				"chromas": false,
+                "splash": "Teemo_3.png"
 			}, {
 				"id": "17004",
 				"num": 4,
 				"name": "Astronaut Teemo",
-				"chromas": true
+				"chromas": true,
+                "splash": "Teemo_4.png"
 			}, {
 				"id": "17005",
 				"num": 5,
 				"name": "Cottontail Teemo",
-				"chromas": true
+				"chromas": true,
+                "splash": "Teemo_5.png"
 			}, {
 				"id": "17006",
 				"num": 6,
 				"name": "Super Teemo",
-				"chromas": false
+				"chromas": false,
+                "splash": "Teemo_6.png"
 			}, {
 				"id": "17007",
 				"num": 7,
 				"name": "Panda Teemo",
-				"chromas": false
+				"chromas": false,
+                "splash": "Teemo_7.png"
 			}, {
 				"id": "17008",
 				"num": 8,
 				"name": "Omega Squad Teemo",
-				"chromas": true
+				"chromas": true,
+                "splash": "Teemo_8.png"
 			}, {
 				"id": "17014",
 				"num": 14,
 				"name": "Little Devil Teemo",
-				"chromas": true
+				"chromas": true,
+                "splash": "Teemo_14.png"
 			}, {
 				"id": "17018",
 				"num": 18,
 				"name": "Beemo",
-				"chromas": true
+				"chromas": true,
+                "splash": "Teemo_18.png"
 			}, {
 				"id": "17025",
 				"num": 25,
 				"name": "Spirit Blossom Teemo",
-				"chromas": false
+				"chromas": false,
+                "splash": "Teemo_25.png"
 			}, {
 				"id": "17027",
 				"num": 27,
 				"name": "Prestige Spirit Blossom Teemo",
-				"chromas": false
+				"chromas": false,
+                "splash": "Teemo_27.png"
 			}, {
 				"id": "17037",
 				"num": 37,
 				"name": "Firecracker Teemo",
-				"chromas": true
+				"chromas": true,
+                "splash": "Teemo_37.png"
 			}],
 			"lore": "Undeterred by even the most dangerous and threatening of obstacles, Teemo scouts the world with boundless enthusiasm and a cheerful spirit. A yordle with an unwavering sense of morality, he takes pride in following the Bandle Scout's Code, sometimes with such eagerness that he is unaware of the broader consequences of his actions. Though some say the existence of the Scouts is questionable, one thing is for certain: Teemo's conviction is nothing to be trifled with.",
 			"blurb": "Undeterred by even the most dangerous and threatening of obstacles, Teemo scouts the world with boundless enthusiasm and a cheerful spirit. A yordle with an unwavering sense of morality, he takes pride in following the Bandle Scout's Code, sometimes...",
@@ -36790,7 +37081,7 @@
 			"title": "the Chain Warden",
 			"image": {
 				"full": "Thresh.png",
-				"sprite": "champion4.png",
+				"splash": "Thresh_0.png",
 				"group": "champion",
 				"x": 336,
 				"y": 0,
@@ -36801,72 +37092,86 @@
 				"id": "412000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Thresh_0.png"
 			}, {
 				"id": "412001",
 				"num": 1,
 				"name": "Deep Terror Thresh",
-				"chromas": false
+				"chromas": false,
+                "splash": "Thresh_1.png"
 			}, {
 				"id": "412002",
 				"num": 2,
 				"name": "Championship Thresh",
-				"chromas": true
+				"chromas": true,
+                "splash": "Thresh_2.png"
 			}, {
 				"id": "412003",
 				"num": 3,
 				"name": "Blood Moon Thresh",
-				"chromas": false
+				"chromas": false,
+                "splash": "Thresh_3.png"
 			}, {
 				"id": "412004",
 				"num": 4,
 				"name": "SSW Thresh",
-				"chromas": false
+				"chromas": false,
+                "splash": "Thresh_4.png"
 			}, {
 				"id": "412005",
 				"num": 5,
 				"name": "Dark Star Thresh",
-				"chromas": true
+				"chromas": true,
+                "splash": "Thresh_5.png"
 			}, {
 				"id": "412006",
 				"num": 6,
 				"name": "High Noon Thresh",
-				"chromas": true
+				"chromas": true,
+                "splash": "Thresh_6.png"
 			}, {
 				"id": "412013",
 				"num": 13,
 				"name": "Pulsefire Thresh",
-				"chromas": false
+				"chromas": false,
+                "splash": "Thresh_13.png"
 			}, {
 				"id": "412014",
 				"num": 14,
 				"name": "Prestige Pulsefire Thresh",
-				"chromas": false
+				"chromas": false,
+                "splash": "Thresh_14.png"
 			}, {
 				"id": "412015",
 				"num": 15,
 				"name": "FPX Thresh",
-				"chromas": true
+				"chromas": true,
+                "splash": "Thresh_15.png"
 			}, {
 				"id": "412017",
 				"num": 17,
 				"name": "Spirit Blossom Thresh",
-				"chromas": true
+				"chromas": true,
+                "splash": "Thresh_17.png"
 			}, {
 				"id": "412027",
 				"num": 27,
 				"name": "Unbound Thresh",
-				"chromas": false
+				"chromas": false,
+                "splash": "Thresh_27.png"
 			}, {
 				"id": "412028",
 				"num": 28,
 				"name": "Steel Dragon Thresh",
-				"chromas": true
+				"chromas": true,
+                "splash": "Thresh_28.png"
 			}, {
 				"id": "412038",
 				"num": 38,
 				"name": "Prestige Pulsefire Thresh (2022)",
-				"chromas": false
+				"chromas": false,
+                "splash": "Thresh_38.png"
 			}],
 			"lore": "Sadistic and cunning, Thresh is an ambitious and restless spirit of the Shadow Isles. Once the custodian of countless arcane secrets, he was undone by a power greater than life or death, and now sustains himself by tormenting and breaking others with slow, excruciating inventiveness. His victims suffer far beyond their brief mortal coil as Thresh wreaks agony upon their souls, imprisoning them in his unholy lantern to torture for all eternity.",
 			"blurb": "Sadistic and cunning, Thresh is an ambitious and restless spirit of the Shadow Isles. Once the custodian of countless arcane secrets, he was undone by a power greater than life or death, and now sustains himself by tormenting and breaking others with...",
@@ -37093,7 +37398,7 @@
 			"title": "the Yordle Gunner",
 			"image": {
 				"full": "Tristana.png",
-				"sprite": "champion4.png",
+				"splash": "Tristana_0.png",
 				"group": "champion",
 				"x": 384,
 				"y": 0,
@@ -37104,72 +37409,86 @@
 				"id": "18000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Tristana_0.png"
 			}, {
 				"id": "18001",
 				"num": 1,
 				"name": "Riot Girl Tristana",
-				"chromas": false
+				"chromas": false,
+                "splash": "Tristana_1.png"
 			}, {
 				"id": "18002",
 				"num": 2,
 				"name": "Earnest Elf Tristana",
-				"chromas": false
+				"chromas": false,
+                "splash": "Tristana_2.png"
 			}, {
 				"id": "18003",
 				"num": 3,
 				"name": "Firefighter Tristana",
-				"chromas": false
+				"chromas": false,
+                "splash": "Tristana_3.png"
 			}, {
 				"id": "18004",
 				"num": 4,
 				"name": "Guerilla Tristana",
-				"chromas": false
+				"chromas": false,
+                "splash": "Tristana_4.png"
 			}, {
 				"id": "18005",
 				"num": 5,
 				"name": "Buccaneer Tristana",
-				"chromas": false
+				"chromas": false,
+                "splash": "Tristana_5.png"
 			}, {
 				"id": "18006",
 				"num": 6,
 				"name": "Rocket Girl Tristana",
-				"chromas": true
+				"chromas": true,
+                "splash": "Tristana_6.png"
 			}, {
 				"id": "18010",
 				"num": 10,
 				"name": "Dragon Trainer Tristana",
-				"chromas": true
+				"chromas": true,
+                "splash": "Tristana_10.png"
 			}, {
 				"id": "18011",
 				"num": 11,
 				"name": "Bewitching Tristana",
-				"chromas": false
+				"chromas": false,
+                "splash": "Tristana_11.png"
 			}, {
 				"id": "18012",
 				"num": 12,
 				"name": "Omega Squad Tristana",
-				"chromas": true
+				"chromas": true,
+                "splash": "Tristana_12.png"
 			}, {
 				"id": "18024",
 				"num": 24,
 				"name": "Little Demon Tristana",
-				"chromas": true
+				"chromas": true,
+                "splash": "Tristana_24.png"
 			}, {
 				"id": "18033",
 				"num": 33,
 				"name": "Pengu Cosplay Tristana",
-				"chromas": true
+				"chromas": true,
+                "splash": "Tristana_33.png"
 			}, {
 				"id": "18040",
 				"num": 40,
 				"name": "Hextech Tristana",
-				"chromas": false
+				"chromas": false,
+                "splash": "Tristana_40.png"
 			}, {
 				"id": "18041",
 				"num": 41,
 				"name": "Firecracker Tristana",
-				"chromas": true
+				"chromas": true,
+                "splash": "Tristana_41.png"
 			}],
 			"lore": "While many other yordles channel their energy into discovery, invention, or just plain mischief-making, Tristana was always inspired by the adventures of great warriors. She had heard much about Runeterra, its factions, and its wars, and believed her kind could become worthy of legend too. Setting foot in the world for the first time, she took up her trusty cannon Boomer, and now leaps into battle with steadfast courage and optimism.",
 			"blurb": "While many other yordles channel their energy into discovery, invention, or just plain mischief-making, Tristana was always inspired by the adventures of great warriors. She had heard much about Runeterra, its factions, and its wars, and believed her...",
@@ -37396,7 +37715,7 @@
 			"title": "the Troll King",
 			"image": {
 				"full": "Trundle.png",
-				"sprite": "champion4.png",
+				"splash": "Trundle_0.png",
 				"group": "champion",
 				"x": 432,
 				"y": 0,
@@ -37407,37 +37726,44 @@
 				"id": "48000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Trundle_0.png"
 			}, {
 				"id": "48001",
 				"num": 1,
 				"name": "Lil' Slugger Trundle",
-				"chromas": false
+				"chromas": false,
+                "splash": "Trundle_0.png"
 			}, {
 				"id": "48002",
 				"num": 2,
 				"name": "Junkyard Trundle",
-				"chromas": false
+				"chromas": false,
+                "splash": "Trundle_2.png"
 			}, {
 				"id": "48003",
 				"num": 3,
 				"name": "Traditional Trundle",
-				"chromas": false
+				"chromas": false,
+                "splash": "Trundle_3.png"
 			}, {
 				"id": "48004",
 				"num": 4,
 				"name": "Constable Trundle",
-				"chromas": false
+				"chromas": false,
+                "splash": "Trundle_4.png"
 			}, {
 				"id": "48005",
 				"num": 5,
 				"name": "Worldbreaker Trundle",
-				"chromas": false
+				"chromas": false,
+                "splash": "Trundle_5.png"
 			}, {
 				"id": "48006",
 				"num": 6,
 				"name": "Dragonslayer Trundle",
-				"chromas": true
+				"chromas": true,
+                "splash": "Trundle_6.png"
 			}],
 			"lore": "Trundle is a hulking and devious troll with a particularly vicious streak, and there is nothing he cannot bludgeon into submission—not even the Freljord itself. Fiercely territorial, he chases down anyone foolish enough to enter his domain. Then, his massive club of True Ice at the ready, he chills his enemies to the bone and impales them with jagged, frozen pillars, laughing as they bleed out onto the tundra.",
 			"blurb": "Trundle is a hulking and devious troll with a particularly vicious streak, and there is nothing he cannot bludgeon into submission—not even the Freljord itself. Fiercely territorial, he chases down anyone foolish enough to enter his domain. Then, his...",
@@ -37664,7 +37990,7 @@
 			"title": "the Barbarian King",
 			"image": {
 				"full": "Tryndamere.png",
-				"sprite": "champion4.png",
+				"splash": "Tryndamere_0.png",
 				"group": "champion",
 				"x": 0,
 				"y": 48,
@@ -37675,62 +38001,74 @@
 				"id": "23000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Tryndamere_0.png"
 			}, {
 				"id": "23001",
 				"num": 1,
 				"name": "Highland Tryndamere",
-				"chromas": false
+				"chromas": false,
+                "splash": "Tryndamere_1.png"
 			}, {
 				"id": "23002",
 				"num": 2,
 				"name": "King Tryndamere",
-				"chromas": false
+				"chromas": false,
+                "splash": "Tryndamere_2.png"
 			}, {
 				"id": "23003",
 				"num": 3,
 				"name": "Viking Tryndamere",
-				"chromas": false
+				"chromas": false,
+                "splash": "Tryndamere_3.png"
 			}, {
 				"id": "23004",
 				"num": 4,
 				"name": "Demonblade Tryndamere",
-				"chromas": false
+				"chromas": false,
+                "splash": "Tryndamere_4.png"
 			}, {
 				"id": "23005",
 				"num": 5,
 				"name": "Sultan Tryndamere",
-				"chromas": false
+				"chromas": false,
+                "splash": "Tryndamere_5.png"
 			}, {
 				"id": "23006",
 				"num": 6,
 				"name": "Warring Kingdoms Tryndamere",
-				"chromas": false
+				"chromas": false,
+                "splash": "Tryndamere_6.png"
 			}, {
 				"id": "23007",
 				"num": 7,
 				"name": "Nightmare Tryndamere",
-				"chromas": false
+				"chromas": false,
+                "splash": "Tryndamere_7.png"
 			}, {
 				"id": "23008",
 				"num": 8,
 				"name": "Beast Hunter Tryndamere",
-				"chromas": false
+				"chromas": false,
+                "splash": "Tryndamere_8.png"
 			}, {
 				"id": "23009",
 				"num": 9,
 				"name": "Chemtech Tryndamere",
-				"chromas": false
+				"chromas": false,
+                "splash": "Tryndamere_9.png"
 			}, {
 				"id": "23010",
 				"num": 10,
 				"name": "Blood Moon Tryndamere",
-				"chromas": true
+				"chromas": true,
+                "splash": "Tryndamere_10.png"
 			}, {
 				"id": "23018",
 				"num": 18,
 				"name": "Nightbringer Tryndamere",
-				"chromas": true
+				"chromas": true,
+                "splash": "Tryndamere_18.png"
 			}],
 			"lore": "Fueled by unbridled fury and rage, Tryndamere once carved his way through the Freljord, openly challenging the greatest warriors of the north to prepare himself for even darker days ahead. The wrathful barbarian has long sought revenge for the annihilation of his clan, though more recently he has found companionship with Ashe, the Avarosan warmother, and a home with her people. His almost inhuman strength and fortitude is legendary, and has delivered him and his new allies countless victories against the greatest of odds.",
 			"blurb": "Fueled by unbridled fury and rage, Tryndamere once carved his way through the Freljord, openly challenging the greatest warriors of the north to prepare himself for even darker days ahead. The wrathful barbarian has long sought revenge for the...",
@@ -37957,7 +38295,7 @@
 			"title": "the Card Master",
 			"image": {
 				"full": "TwistedFate.png",
-				"sprite": "champion4.png",
+				"splash": "TwistedFate_0.png",
 				"group": "champion",
 				"x": 48,
 				"y": 48,
@@ -37968,77 +38306,92 @@
 				"id": "4000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "TwistedFate_0.png"
 			}, {
 				"id": "4001",
 				"num": 1,
 				"name": "PAX Twisted Fate",
-				"chromas": false
+				"chromas": false,
+                "splash": "TwistedFate_1.png"
 			}, {
 				"id": "4002",
 				"num": 2,
 				"name": "Jack of Hearts Twisted Fate",
-				"chromas": false
+				"chromas": false,
+                "splash": "TwistedFate_2.png"
 			}, {
 				"id": "4003",
 				"num": 3,
 				"name": "The Magnificent Twisted Fate",
-				"chromas": false
+				"chromas": false,
+                "splash": "TwistedFate_3.png"
 			}, {
 				"id": "4004",
 				"num": 4,
 				"name": "Tango Twisted Fate",
-				"chromas": false
+				"chromas": false,
+                "splash": "TwistedFate_4.png"
 			}, {
 				"id": "4005",
 				"num": 5,
 				"name": "High Noon Twisted Fate",
-				"chromas": false
+				"chromas": false,
+                "splash": "TwistedFate_5.png"
 			}, {
 				"id": "4006",
 				"num": 6,
 				"name": "Musketeer Twisted Fate",
-				"chromas": false
+				"chromas": false,
+                "splash": "TwistedFate_6.png"
 			}, {
 				"id": "4007",
 				"num": 7,
 				"name": "Underworld Twisted Fate",
-				"chromas": false
+				"chromas": false,
+                "splash": "TwistedFate_7.png"
 			}, {
 				"id": "4008",
 				"num": 8,
 				"name": "Red Card Twisted Fate",
-				"chromas": false
+				"chromas": false,
+                "splash": "TwistedFate_8.png"
 			}, {
 				"id": "4009",
 				"num": 9,
 				"name": "Cutpurse Twisted Fate",
-				"chromas": false
+				"chromas": false,
+                "splash": "TwistedFate_9.png"
 			}, {
 				"id": "4010",
 				"num": 10,
 				"name": "Blood Moon Twisted Fate",
-				"chromas": false
+				"chromas": false,
+                "splash": "TwistedFate_10.png"
 			}, {
 				"id": "4011",
 				"num": 11,
 				"name": "Pulsefire Twisted Fate",
-				"chromas": true
+				"chromas": true,
+                "splash": "TwistedFate_11.png"
 			}, {
 				"id": "4013",
 				"num": 13,
 				"name": "Odyssey Twisted Fate",
-				"chromas": true
+				"chromas": true,
+                "splash": "TwistedFate_13.png"
 			}, {
 				"id": "4023",
 				"num": 23,
 				"name": "DWG Twisted Fate",
-				"chromas": true
+				"chromas": true,
+                "splash": "TwistedFate_23.png"
 			}, {
 				"id": "4025",
 				"num": 25,
 				"name": "Crime City Nightmare Twisted Fate",
-				"chromas": true
+				"chromas": true,
+                "splash": "TwistedFate_25.png"
 			}],
 			"lore": "Twisted Fate is an infamous cardsharp and swindler who has gambled and charmed his way across much of the known world, earning the enmity and admiration of the rich and foolish alike. He rarely takes things seriously, greeting each day with a mocking smile and an insouciant swagger. In every possible way, Twisted Fate always has an ace up his sleeve.",
 			"blurb": "Twisted Fate is an infamous cardsharp and swindler who has gambled and charmed his way across much of the known world, earning the enmity and admiration of the rich and foolish alike. He rarely takes things seriously, greeting each day with a mocking...",
@@ -38265,7 +38618,7 @@
 			"title": "the Plague Rat",
 			"image": {
 				"full": "Twitch.png",
-				"sprite": "champion4.png",
+				"splash": "Twitch_0.png",
 				"group": "champion",
 				"x": 96,
 				"y": 48,
@@ -38276,67 +38629,80 @@
 				"id": "29000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Twitch_0.png"
 			}, {
 				"id": "29001",
 				"num": 1,
 				"name": "Kingpin Twitch",
-				"chromas": false
+				"chromas": false,
+                "splash": "Twitch_1.png"
 			}, {
 				"id": "29002",
 				"num": 2,
 				"name": "Whistler Village Twitch",
-				"chromas": false
+				"chromas": false,
+                "splash": "Twitch_2.png"
 			}, {
 				"id": "29003",
 				"num": 3,
 				"name": "Medieval Twitch",
-				"chromas": true
+				"chromas": true,
+                "splash": "Twitch_3.png"
 			}, {
 				"id": "29004",
 				"num": 4,
 				"name": "Crime City Twitch",
-				"chromas": false
+				"chromas": false,
+                "splash": "Twitch_4.png"
 			}, {
 				"id": "29005",
 				"num": 5,
 				"name": "Vandal Twitch",
-				"chromas": false
+				"chromas": false,
+                "splash": "Twitch_5.png"
 			}, {
 				"id": "29006",
 				"num": 6,
 				"name": "Pickpocket Twitch",
-				"chromas": false
+				"chromas": false,
+                "splash": "Twitch_6.png"
 			}, {
 				"id": "29007",
 				"num": 7,
 				"name": "SSW Twitch",
-				"chromas": false
+				"chromas": false,
+                "splash": "Twitch_7.png"
 			}, {
 				"id": "29008",
 				"num": 8,
 				"name": "Omega Squad Twitch",
-				"chromas": true
+				"chromas": true,
+                "splash": "Twitch_8.png"
 			}, {
 				"id": "29012",
 				"num": 12,
 				"name": "Ice King Twitch",
-				"chromas": true
+				"chromas": true,
+                "splash": "Twitch_12.png"
 			}, {
 				"id": "29027",
 				"num": 27,
 				"name": "Twitch Shadowfoot",
-				"chromas": false
+				"chromas": false,
+                "splash": "Twitch_27.png"
 			}, {
 				"id": "29036",
 				"num": 36,
 				"name": "Dragonslayer Twitch",
-				"chromas": false
+				"chromas": false,
+                "splash": "Twitch_36.png"
 			}, {
 				"id": "29045",
 				"num": 45,
 				"name": "High Noon Twitch",
-				"chromas": false
+				"chromas": false,
+                "splash": "Twitch_45.png"
 			}],
 			"lore": "A Zaunite plague rat by birth, but a connoisseur of filth by passion, Twitch is not afraid to get his paws dirty. Aiming a chem-powered crossbow at the gilded heart of Piltover, he has vowed to show those in the city above just how filthy they really are. Always a sneaky sneak, when he's not rooting around in the Sump, he's digging deep into other people's garbage for discarded treasures… and perhaps a moldy sandwich.",
 			"blurb": "A Zaunite plague rat by birth, but a connoisseur of filth by passion, Twitch is not afraid to get his paws dirty. Aiming a chem-powered crossbow at the gilded heart of Piltover, he has vowed to show those in the city above just how filthy they really...",
@@ -38563,7 +38929,7 @@
 			"title": "the Spirit Walker",
 			"image": {
 				"full": "Udyr.png",
-				"sprite": "champion4.png",
+				"splash": "Udyr_0.png",
 				"group": "champion",
 				"x": 144,
 				"y": 48,
@@ -38574,32 +38940,38 @@
 				"id": "77000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Udyr_0.png"
 			}, {
 				"id": "77001",
 				"num": 1,
 				"name": "Black Belt Udyr",
-				"chromas": false
+				"chromas": false,
+                "splash": "Udyr_1.png"
 			}, {
 				"id": "77002",
 				"num": 2,
 				"name": "Primal Udyr",
-				"chromas": false
+				"chromas": false,
+                "splash": "Udyr_2.png"
 			}, {
 				"id": "77003",
 				"num": 3,
 				"name": "Spirit Guard Udyr",
-				"chromas": false
+				"chromas": false,
+                "splash": "Udyr_3.png"
 			}, {
 				"id": "77004",
 				"num": 4,
 				"name": "Definitely Not Udyr",
-				"chromas": false
+				"chromas": false,
+                "splash": "Udyr_4.png"
 			}, {
 				"id": "77005",
 				"num": 5,
 				"name": "Dragon Oracle Udyr",
-				"chromas": false
+				"chromas": false,
+                "splash": "Udyr_5.png"
 			}],
 			"lore": "Udyr is more than a man; he is a vessel for the untamed power of four primal animal spirits. When tapping into the spirits' bestial natures, Udyr can harness their unique strengths: The tiger grants him speed and ferocity, the turtle resilience, the bear might, and the phoenix its eternal flame. With their combined power, Udyr can turn back all those who would attempt to harm the natural order.",
 			"blurb": "Udyr is more than a man; he is a vessel for the untamed power of four primal animal spirits. When tapping into the spirits' bestial natures, Udyr can harness their unique strengths: The tiger grants him speed and ferocity, the turtle resilience, the...",
@@ -38826,7 +39198,7 @@
 			"title": "the Dreadnought",
 			"image": {
 				"full": "Urgot.png",
-				"sprite": "champion4.png",
+				"splash": "Urgot_0.png",
 				"group": "champion",
 				"x": 192,
 				"y": 48,
@@ -38837,32 +39209,38 @@
 				"id": "6000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Urgot_0.png"
 			}, {
 				"id": "6001",
 				"num": 1,
 				"name": "Giant Enemy Crabgot",
-				"chromas": false
+				"chromas": false,
+                "splash": "Urgot_1.png"
 			}, {
 				"id": "6002",
 				"num": 2,
 				"name": "Butcher Urgot",
-				"chromas": false
+				"chromas": false,
+                "splash": "Urgot_2.png"
 			}, {
 				"id": "6003",
 				"num": 3,
 				"name": "Battlecast Urgot",
-				"chromas": true
+				"chromas": true,
+                "splash": "Urgot_3.png"
 			}, {
 				"id": "6009",
 				"num": 9,
 				"name": "High Noon Urgot",
-				"chromas": true
+				"chromas": true,
+                "splash": "Urgot_9.png"
 			}, {
 				"id": "6015",
 				"num": 15,
 				"name": "Pajama Guardian Cosplay Urgot",
-				"chromas": true
+				"chromas": true,
+                "splash": "Urgot_15.png"
 			}],
 			"lore": "Once a powerful Noxian headsman, Urgot was betrayed by the empire for which he had killed so many. Bound in iron chains, he was forced to learn the true meaning of strength in the Dredge—a prison mine deep beneath Zaun. Emerging in a disaster that spread chaos throughout the city, he now casts an imposing shadow over its criminal underworld. Raising his victims on the very chains that once enslaved him, he will purge his new home of the unworthy, making it a crucible of pain.",
 			"blurb": "Once a powerful Noxian headsman, Urgot was betrayed by the empire for which he had killed so many. Bound in iron chains, he was forced to learn the true meaning of strength in the Dredge—a prison mine deep beneath Zaun. Emerging in a disaster that...",
@@ -39089,7 +39467,7 @@
 			"title": "the Arrow of Retribution",
 			"image": {
 				"full": "Varus.png",
-				"sprite": "champion4.png",
+				"splash": "Varus_0.png",
 				"group": "champion",
 				"x": 240,
 				"y": 48,
@@ -39100,62 +39478,74 @@
 				"id": "110000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Varus_0.png"
 			}, {
 				"id": "110001",
 				"num": 1,
 				"name": "Blight Crystal Varus",
-				"chromas": false
+				"chromas": false,
+                "splash": "Varus_1.png"
 			}, {
 				"id": "110002",
 				"num": 2,
 				"name": "Arclight Varus",
-				"chromas": false
+				"chromas": false,
+                "splash": "Varus_2.png"
 			}, {
 				"id": "110003",
 				"num": 3,
 				"name": "Arctic Ops Varus",
-				"chromas": false
+				"chromas": false,
+                "splash": "Varus_3.png"
 			}, {
 				"id": "110004",
 				"num": 4,
 				"name": "Heartseeker Varus",
-				"chromas": false
+				"chromas": false,
+                "splash": "Varus_4.png"
 			}, {
 				"id": "110005",
 				"num": 5,
 				"name": "Varus Swiftbolt",
-				"chromas": false
+				"chromas": false,
+                "splash": "Varus_5.png"
 			}, {
 				"id": "110006",
 				"num": 6,
 				"name": "Dark Star Varus",
-				"chromas": true
+				"chromas": true,
+                "splash": "Varus_6.png"
 			}, {
 				"id": "110007",
 				"num": 7,
 				"name": "Conqueror Varus",
-				"chromas": true
+				"chromas": true,
+                "splash": "Varus_7.png"
 			}, {
 				"id": "110009",
 				"num": 9,
 				"name": "Infernal Varus",
-				"chromas": true
+				"chromas": true,
+                "splash": "Varus_9.png"
 			}, {
 				"id": "110016",
 				"num": 16,
 				"name": "PROJECT: Varus",
-				"chromas": true
+				"chromas": true,
+                "splash": "Varus_16.png"
 			}, {
 				"id": "110017",
 				"num": 17,
 				"name": "Cosmic Hunter Varus",
-				"chromas": true
+				"chromas": true,
+                "splash": "Varus_17.png"
 			}, {
 				"id": "110034",
 				"num": 34,
 				"name": "High Noon Varus",
-				"chromas": true
+				"chromas": true,
+                "splash": "Varus_34.png"
 			}],
 			"lore": "One of the ancient darkin, Varus was a deadly killer who loved to torment his foes, driving them almost to insanity before delivering the killing arrow. He was imprisoned at the end of the Great Darkin War, but escaped centuries later in the remade flesh of two Ionian hunters—they had unwittingly released him, cursed to bear the bow containing his bound essence. Varus now seeks out those who trapped him, in order to enact his brutal vengeance, but the mortal souls within still resist him every step of the way.",
 			"blurb": "One of the ancient darkin, Varus was a deadly killer who loved to torment his foes, driving them almost to insanity before delivering the killing arrow. He was imprisoned at the end of the Great Darkin War, but escaped centuries later in the remade...",
@@ -39382,7 +39772,7 @@
 			"title": "the Night Hunter",
 			"image": {
 				"full": "Vayne.png",
-				"sprite": "champion4.png",
+				"splash": "Vayne_0.png",
 				"group": "champion",
 				"x": 288,
 				"y": 48,
@@ -39393,82 +39783,98 @@
 				"id": "67000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Vayne_0.png"
 			}, {
 				"id": "67001",
 				"num": 1,
 				"name": "Vindicator Vayne",
-				"chromas": false
+				"chromas": false,
+                "splash": "Vayne_1.png"
 			}, {
 				"id": "67002",
 				"num": 2,
 				"name": "Aristocrat Vayne",
-				"chromas": false
+				"chromas": false,
+                "splash": "Vayne_2.png"
 			}, {
 				"id": "67003",
 				"num": 3,
 				"name": "Dragonslayer Vayne",
-				"chromas": true
+				"chromas": true,
+                "splash": "Vayne_3.png"
 			}, {
 				"id": "67004",
 				"num": 4,
 				"name": "Heartseeker Vayne",
-				"chromas": false
+				"chromas": false,
+                "splash": "Vayne_4.png"
 			}, {
 				"id": "67005",
 				"num": 5,
 				"name": "SKT T1 Vayne",
-				"chromas": false
+				"chromas": false,
+                "splash": "Vayne_5.png"
 			}, {
 				"id": "67006",
 				"num": 6,
 				"name": "Arclight Vayne",
-				"chromas": false
+				"chromas": false,
+                "splash": "Vayne_6.png"
 			}, {
 				"id": "67010",
 				"num": 10,
 				"name": "Soulstealer Vayne",
-				"chromas": false
+				"chromas": false,
+                "splash": "Vayne_10.png"
 			}, {
 				"id": "67011",
 				"num": 11,
 				"name": "PROJECT: Vayne",
-				"chromas": false
+				"chromas": false,
+                "splash": "Vayne_11.png"
 			}, {
 				"id": "67012",
 				"num": 12,
 				"name": "Firecracker Vayne",
-				"chromas": true
+				"chromas": true,
+                "splash": "Vayne_12.png"
 			}, {
 				"id": "67013",
 				"num": 13,
 				"name": "Prestige Firecracker Vayne",
-				"chromas": false
+				"chromas": false,
+                "splash": "Vayne_13.png"
 			}, {
 				"id": "67014",
 				"num": 14,
 				"name": "Spirit Blossom Vayne",
-				"chromas": true
+				"chromas": true,
+                "splash": "Vayne_14.png"
 			}, {
 				"id": "67015",
 				"num": 15,
 				"name": "FPX Vayne",
-				"chromas": true
+				"chromas": true,
+                "splash": "Vayne_15.png"
 			}, {
 				"id": "67025",
 				"num": 25,
 				"name": "Sentinel Vayne",
-				"chromas": true
+				"chromas": true,
+                "splash": "Vayne_25.png"
 			}, {
 				"id": "67032",
 				"num": 32,
 				"name": "Battle Bat Vayne",
-				"chromas": true
+				"chromas": true,
+                "splash": "Vayne_32.png"
 			}, {
 				"id": "67033",
 				"num": 33,
 				"name": "Prestige Firecracker Vayne (2022)",
-				"chromas": false
+				"chromas": false,
+                "splash": "Vayne_33.png"
 			}],
 			"lore": "Shauna Vayne is a deadly, remorseless Demacian monster hunter, who has dedicated her life to finding and destroying the demon that murdered her family. Armed with a wrist-mounted crossbow and a heart full of vengeance, she is only truly happy when slaying practitioners or creations of the dark arts, striking from the shadows with a flurry of silver bolts.",
 			"blurb": "Shauna Vayne is a deadly, remorseless Demacian monster hunter, who has dedicated her life to finding and destroying the demon that murdered her family. Armed with a wrist-mounted crossbow and a heart full of vengeance, she is only truly happy when...",
@@ -39695,7 +40101,7 @@
 			"title": "the Tiny Master of Evil",
 			"image": {
 				"full": "Veigar.png",
-				"sprite": "champion4.png",
+				"splash": "Veigar_0.png",
 				"group": "champion",
 				"x": 336,
 				"y": 48,
@@ -39706,67 +40112,80 @@
 				"id": "45000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Veigar_0.png"
 			}, {
 				"id": "45001",
 				"num": 1,
 				"name": "White Mage Veigar",
-				"chromas": false
+				"chromas": false,
+                "splash": "Veigar_1.png"
 			}, {
 				"id": "45002",
 				"num": 2,
 				"name": "Curling Veigar",
-				"chromas": false
+				"chromas": false,
+                "splash": "Veigar_2.png"
 			}, {
 				"id": "45003",
 				"num": 3,
 				"name": "Veigar Greybeard",
-				"chromas": false
+				"chromas": false,
+                "splash": "Veigar_3.png"
 			}, {
 				"id": "45004",
 				"num": 4,
 				"name": "Leprechaun Veigar",
-				"chromas": false
+				"chromas": false,
+                "splash": "Veigar_4.png"
 			}, {
 				"id": "45005",
 				"num": 5,
 				"name": "Baron Von Veigar",
-				"chromas": false
+				"chromas": false,
+                "splash": "Veigar_5.png"
 			}, {
 				"id": "45006",
 				"num": 6,
 				"name": "Superb Villain Veigar",
-				"chromas": false
+				"chromas": false,
+                "splash": "Veigar_6.png"
 			}, {
 				"id": "45007",
 				"num": 7,
 				"name": "Bad Santa Veigar",
-				"chromas": false
+				"chromas": false,
+                "splash": "Veigar_7.png"
 			}, {
 				"id": "45008",
 				"num": 8,
 				"name": "Final Boss Veigar",
-				"chromas": false
+				"chromas": false,
+                "splash": "Veigar_8.png"
 			}, {
 				"id": "45009",
 				"num": 9,
 				"name": "Omega Squad Veigar",
-				"chromas": true
+				"chromas": true,
+                "splash": "Veigar_9.png"
 			}, {
 				"id": "45013",
 				"num": 13,
 				"name": "Elderwood Veigar",
-				"chromas": true
+				"chromas": true,
+                "splash": "Veigar_13.png"
 			}, {
 				"id": "45023",
 				"num": 23,
 				"name": "Furyhorn Cosplay Veigar",
-				"chromas": true
+				"chromas": true,
+                "splash": "Veigar_32.png"
 			}, {
 				"id": "45032",
 				"num": 32,
 				"name": "Astronaut Veigar",
-				"chromas": true
+				"chromas": true,
+                "splash": "Veigar_32.png"
 			}],
 			"lore": "An enthusiastic master of dark sorcery, Veigar has embraced powers that few mortals dare approach. As a free-spirited inhabitant of Bandle City, he longed to push beyond the limitations of yordle magic, and turned instead to arcane texts that had been hidden away for thousands of years. Now a stubborn creature with an endless fascination for the mysteries of the universe, Veigar is often underestimated by others—but even though he believes himself truly evil, he possesses an inner morality that leads some to question his deeper motivations.",
 			"blurb": "An enthusiastic master of dark sorcery, Veigar has embraced powers that few mortals dare approach. As a free-spirited inhabitant of Bandle City, he longed to push beyond the limitations of yordle magic, and turned instead to arcane texts that had been...",
@@ -39993,7 +40412,7 @@
 			"title": "the Eye of the Void",
 			"image": {
 				"full": "Velkoz.png",
-				"sprite": "champion4.png",
+				"splash": "Velkoz_0.png",
 				"group": "champion",
 				"x": 384,
 				"y": 48,
@@ -40004,32 +40423,38 @@
 				"id": "161000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Velkoz_0.png"
 			}, {
 				"id": "161001",
 				"num": 1,
 				"name": "Battlecast Vel'Koz",
-				"chromas": false
+				"chromas": false,
+                "splash": "Velkoz_1.png"
 			}, {
 				"id": "161002",
 				"num": 2,
 				"name": "Arclight Vel'Koz",
-				"chromas": false
+				"chromas": false,
+                "splash": "Velkoz_2.png"
 			}, {
 				"id": "161003",
 				"num": 3,
 				"name": "Definitely Not Vel'Koz",
-				"chromas": false
+				"chromas": false,
+                "splash": "Velkoz_3.png"
 			}, {
 				"id": "161004",
 				"num": 4,
 				"name": "Infernal Vel'Koz",
-				"chromas": true
+				"chromas": true,
+                "splash": "Velkoz_4.png"
 			}, {
 				"id": "161011",
 				"num": 11,
 				"name": "Blackfrost Vel'Koz",
-				"chromas": true
+				"chromas": true,
+                "splash": "Velkoz_11.png"
 			}],
 			"lore": "It is unclear if Vel'Koz was the first Void-spawn to emerge on Runeterra, but there has certainly never been another to match his level of cruel, calculating sentience. While his kin devour or defile everything around them, he seeks instead to scrutinize and study the physical realm—and the strange, warlike beings that dwell there—for any weakness the Void might exploit. But Vel'Koz is far from a passive observer, striking back at threats with deadly plasma, or by disrupting the very fabric of the world itself.",
 			"blurb": "It is unclear if Vel'Koz was the first Void-spawn to emerge on Runeterra, but there has certainly never been another to match his level of cruel, calculating sentience. While his kin devour or defile everything around them, he seeks instead to...",
@@ -40256,7 +40681,7 @@
 			"title": "the Gloomist",
 			"image": {
 				"full": "Vex.png",
-				"sprite": "champion4.png",
+				"splash": "Vex_0.png",
 				"group": "champion",
 				"x": 432,
 				"y": 48,
@@ -40267,12 +40692,14 @@
 				"id": "711000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Vex_0.png"
 			}, {
 				"id": "711001",
 				"num": 1,
 				"name": "Dawnbringer Vex",
-				"chromas": true
+				"chromas": true,
+                "splash": "Vex_1.png"
 			}],
 			"lore": "In the black heart of the Shadow Isles, a lone yordle trudges through the spectral fog, content in its murky misery. With an endless supply of teen angst and a powerful shadow in tow, Vex lives in her own self-made slice of gloom, far from the revolting cheer of the “normie” world. Though she lacks ambition, she is quick to strike down color and happiness, stopping all would-be interlopers with her magical malaise.",
 			"blurb": "In the black heart of the Shadow Isles, a lone yordle trudges through the spectral fog, content in its murky misery. With an endless supply of teen angst and a powerful shadow in tow, Vex lives in her own self-made slice of gloom, far from the revolting...",
@@ -40499,7 +40926,7 @@
 			"title": "the Piltover Enforcer",
 			"image": {
 				"full": "Vi.png",
-				"sprite": "champion4.png",
+				"splash": "Vi_0.png",
 				"group": "champion",
 				"x": 0,
 				"y": 96,
@@ -40510,52 +40937,62 @@
 				"id": "254000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Vi_0.png"
 			}, {
 				"id": "254001",
 				"num": 1,
 				"name": "Neon Strike Vi",
-				"chromas": false
+				"chromas": false,
+                "splash": "Vi_1.png"
 			}, {
 				"id": "254002",
 				"num": 2,
 				"name": "Officer Vi",
-				"chromas": true
+				"chromas": true,
+                "splash": "Vi_2.png"
 			}, {
 				"id": "254003",
 				"num": 3,
 				"name": "Debonair Vi",
-				"chromas": false
+				"chromas": false,
+                "splash": "Vi_3.png"
 			}, {
 				"id": "254004",
 				"num": 4,
 				"name": "Demon Vi",
-				"chromas": false
+				"chromas": false,
+                "splash": "Vi_4.png"
 			}, {
 				"id": "254005",
 				"num": 5,
 				"name": "Warring Kingdoms Vi",
-				"chromas": false
+				"chromas": false,
+                "splash": "Vi_5.png"
 			}, {
 				"id": "254011",
 				"num": 11,
 				"name": "PROJECT: Vi",
-				"chromas": false
+				"chromas": false,
+                "splash": "Vi_11.png"
 			}, {
 				"id": "254012",
 				"num": 12,
 				"name": "Heartbreaker Vi",
-				"chromas": true
+				"chromas": true,
+                "splash": "Vi_12.png"
 			}, {
 				"id": "254020",
 				"num": 20,
 				"name": "PsyOps Vi",
-				"chromas": true
+				"chromas": true,
+                "splash": "Vi_20.png"
 			}, {
 				"id": "254029",
 				"num": 29,
 				"name": "Arcane Vi",
-				"chromas": false
+				"chromas": false,
+                "splash": "Vi_29.png"
 			}],
 			"lore": "Once a criminal from the mean streets of Zaun, Vi is a hotheaded, impulsive, and fearsome woman with only a very loose respect for authority figures. Growing up all but alone, Vi developed finely honed survival instincts as well as a wickedly abrasive sense of humor. Now working with the Wardens of Piltover to keep the peace, she wields mighty hextech gauntlets that can punch through walls and suspects with equal ease.",
 			"blurb": "Once a criminal from the mean streets of Zaun, Vi is a hotheaded, impulsive, and fearsome woman with only a very loose respect for authority figures. Growing up all but alone, Vi developed finely honed survival instincts as well as a wickedly abrasive...",
@@ -40782,7 +41219,7 @@
 			"title": "The Ruined King",
 			"image": {
 				"full": "Viego.png",
-				"sprite": "champion4.png",
+				"splash": "Viego_0.png",
 				"group": "champion",
 				"x": 48,
 				"y": 96,
@@ -40793,22 +41230,26 @@
 				"id": "234000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Viego_0.png"
 			}, {
 				"id": "234001",
 				"num": 1,
 				"name": "Lunar Beast Viego",
-				"chromas": true
+				"chromas": true,
+                "splash": "Viego_1.png"
 			}, {
 				"id": "234010",
 				"num": 10,
 				"name": "Dissonance of Pentakill Viego",
-				"chromas": false
+				"chromas": false,
+                "splash": "Viego_10.png"
 			}, {
 				"id": "234019",
 				"num": 19,
 				"name": "EDG Viego",
-				"chromas": false
+				"chromas": false,
+                "splash": "Viego_19.png"
 			}],
 			"lore": "Once ruler of a long-lost kingdom, Viego perished over a thousand years ago when his attempt to bring his wife back from the dead triggered the magical catastrophe known as the Ruination. Transformed into a powerful, unliving wraith tortured by an obsessive longing for his centuries-dead queen, Viego now stands as the Ruined King, controlling the deadly Harrowings as he scours Runeterra for anything that might one day restore her, and destroying all in his path as the Black Mist pours endlessly from his cruel, broken heart.",
 			"blurb": "Once ruler of a long-lost kingdom, Viego perished over a thousand years ago when his attempt to bring his wife back from the dead triggered the magical catastrophe known as the Ruination. Transformed into a powerful, unliving wraith tortured by an...",
@@ -41035,7 +41476,7 @@
 			"title": "the Machine Herald",
 			"image": {
 				"full": "Viktor.png",
-				"sprite": "champion4.png",
+				"splash": "Viktor_0.png",
 				"group": "champion",
 				"x": 96,
 				"y": 96,
@@ -41046,37 +41487,44 @@
 				"id": "112000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Viktor_0.png"
 			}, {
 				"id": "112001",
 				"num": 1,
 				"name": "Full Machine Viktor",
-				"chromas": false
+				"chromas": false,
+                "splash": "Viktor_1.png"
 			}, {
 				"id": "112002",
 				"num": 2,
 				"name": "Prototype Viktor",
-				"chromas": false
+				"chromas": false,
+                "splash": "Viktor_2.png"
 			}, {
 				"id": "112003",
 				"num": 3,
 				"name": "Creator Viktor",
-				"chromas": false
+				"chromas": false,
+                "splash": "Viktor_3.png"
 			}, {
 				"id": "112004",
 				"num": 4,
 				"name": "Death Sworn Viktor",
-				"chromas": false
+				"chromas": false,
+                "splash": "Viktor_4.png"
 			}, {
 				"id": "112005",
 				"num": 5,
 				"name": "PsyOps Viktor",
-				"chromas": true
+				"chromas": true,
+                "splash": "Viktor_5.png"
 			}, {
 				"id": "112014",
 				"num": 14,
 				"name": "High Noon Viktor",
-				"chromas": true
+				"chromas": true,
+                "splash": "Viktor_14.png"
 			}],
 			"lore": "The herald of a new age of technology, Viktor has devoted his life to the advancement of humankind. An idealist who seeks to lift the people of Zaun to a new level of understanding, he believes that only by embracing a glorious evolution of technology can humanity's full potential be realized. With a body augmented by steel and science, Viktor is zealous in his pursuit of this bright future.",
 			"blurb": "The herald of a new age of technology, Viktor has devoted his life to the advancement of humankind. An idealist who seeks to lift the people of Zaun to a new level of understanding, he believes that only by embracing a glorious evolution of technology...",
@@ -41303,7 +41751,7 @@
 			"title": "the Crimson Reaper",
 			"image": {
 				"full": "Vladimir.png",
-				"sprite": "champion4.png",
+				"splash": "Vladimir_0.png",
 				"group": "champion",
 				"x": 144,
 				"y": 96,
@@ -41314,62 +41762,74 @@
 				"id": "8000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Vladimir_0.png"
 			}, {
 				"id": "8001",
 				"num": 1,
 				"name": "Count Vladimir",
-				"chromas": false
+				"chromas": false,
+                "splash": "Vladimir_1.png"
 			}, {
 				"id": "8002",
 				"num": 2,
 				"name": "Marquis Vladimir",
-				"chromas": false
+				"chromas": false,
+                "splash": "Vladimir_2.png"
 			}, {
 				"id": "8003",
 				"num": 3,
 				"name": "Nosferatu Vladimir",
-				"chromas": false
+				"chromas": false,
+                "splash": "Vladimir_3.png"
 			}, {
 				"id": "8004",
 				"num": 4,
 				"name": "Vandal Vladimir",
-				"chromas": false
+				"chromas": false,
+                "splash": "Vladimir_4.png"
 			}, {
 				"id": "8005",
 				"num": 5,
 				"name": "Blood Lord Vladimir",
-				"chromas": false
+				"chromas": false,
+                "splash": "Vladimir_5.png"
 			}, {
 				"id": "8006",
 				"num": 6,
 				"name": "Soulstealer Vladimir",
-				"chromas": false
+				"chromas": false,
+                "splash": "Vladimir_6.png"
 			}, {
 				"id": "8007",
 				"num": 7,
 				"name": "Academy Vladimir",
-				"chromas": false
+				"chromas": false,
+                "splash": "Vladimir_7.png"
 			}, {
 				"id": "8008",
 				"num": 8,
 				"name": "Dark Waters Vladimir",
-				"chromas": true
+				"chromas": true,
+                "splash": "Vladimir_8.png"
 			}, {
 				"id": "8014",
 				"num": 14,
 				"name": "Nightbringer Vladimir",
-				"chromas": true
+				"chromas": true,
+                "splash": "Vladimir_14.png"
 			}, {
 				"id": "8021",
 				"num": 21,
 				"name": "Cosmic Devourer Vladimir",
-				"chromas": true
+				"chromas": true,
+                "splash": "Vladimir_21.png"
 			}, {
 				"id": "8030",
 				"num": 30,
 				"name": "Cafe Cuties Vladimir",
-				"chromas": true
+				"chromas": true,
+                "splash": "Vladimir_30.png"
 			}],
 			"lore": "A fiend with a thirst for mortal blood, Vladimir has influenced the affairs of Noxus since the empire's earliest days. In addition to unnaturally extending his life, his mastery of hemomancy allows him to control the minds and bodies of others as easily as his own. In the flamboyant salons of the Noxian aristocracy, this has enabled him to build a fanatical cult of personality around himself—while in the lowest back alleys, it allows him to bleed his enemies dry.",
 			"blurb": "A fiend with a thirst for mortal blood, Vladimir has influenced the affairs of Noxus since the empire's earliest days. In addition to unnaturally extending his life, his mastery of hemomancy allows him to control the minds and bodies of others as easily...",
@@ -41596,7 +42056,7 @@
 			"title": "the Relentless Storm",
 			"image": {
 				"full": "Volibear.png",
-				"sprite": "champion4.png",
+				"splash": "Volibear_0.png",
 				"group": "champion",
 				"x": 192,
 				"y": 96,
@@ -41607,47 +42067,56 @@
 				"id": "106000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Volibear_0.png"
 			}, {
 				"id": "106001",
 				"num": 1,
 				"name": "Thunder Lord Volibear",
-				"chromas": false
+				"chromas": false,
+                "splash": "Volibear_1.png"
 			}, {
 				"id": "106002",
 				"num": 2,
 				"name": "Northern Storm Volibear",
-				"chromas": false
+				"chromas": false,
+                "splash": "Volibear_2.png"
 			}, {
 				"id": "106003",
 				"num": 3,
 				"name": "Runeguard Volibear",
-				"chromas": false
+				"chromas": false,
+                "splash": "Volibear_3.png"
 			}, {
 				"id": "106004",
 				"num": 4,
 				"name": "Captain Volibear",
-				"chromas": false
+				"chromas": false,
+                "splash": "Volibear_4.png"
 			}, {
 				"id": "106005",
 				"num": 5,
 				"name": "El Rayo Volibear",
-				"chromas": false
+				"chromas": false,
+                "splash": "Volibear_5.png"
 			}, {
 				"id": "106006",
 				"num": 6,
 				"name": "The Thousand-Pierced Bear",
-				"chromas": false
+				"chromas": false,
+                "splash": "Volibear_6.png"
 			}, {
 				"id": "106007",
 				"num": 7,
 				"name": "Duality Dragon Volibear",
-				"chromas": true
+				"chromas": true,
+                "splash": "Volibear_7.png"
 			}, {
 				"id": "106009",
 				"num": 9,
 				"name": "Prestige Duality Dragon Volibear",
-				"chromas": false
+				"chromas": false,
+                "splash": "Volibear_9.png"
 			}],
 			"lore": "To those who still revere him, the Volibear is the storm made manifest. Destructive, wild, and stubbornly resolute, he existed before mortals walked the Freljord's tundra, and is fiercely protective of the lands that he and his demi-god kin created. Cultivating a deep hatred of civilization and the weakness it brought with it, he now fights to return to the old ways—when the land was untamed, and blood spilled freely—and eagerly battles all who oppose him, with tooth, claw, and thundering domination.",
 			"blurb": "To those who still revere him, the Volibear is the storm made manifest. Destructive, wild, and stubbornly resolute, he existed before mortals walked the Freljord's tundra, and is fiercely protective of the lands that he and his demi-god kin created...",
@@ -41874,7 +42343,7 @@
 			"title": "the Uncaged Wrath of Zaun",
 			"image": {
 				"full": "Warwick.png",
-				"sprite": "champion4.png",
+				"splash": "Warwick_0.png",
 				"group": "champion",
 				"x": 240,
 				"y": 96,
@@ -41885,67 +42354,80 @@
 				"id": "19000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Warwick_0.png"
 			}, {
 				"id": "19001",
 				"num": 1,
 				"name": "Grey Warwick",
-				"chromas": true
+				"chromas": true,
+                "splash": "Warwick_1.png"
 			}, {
 				"id": "19002",
 				"num": 2,
 				"name": "Urf the Manatee",
-				"chromas": false
+				"chromas": false,
+                "splash": "Warwick_2.png"
 			}, {
 				"id": "19003",
 				"num": 3,
 				"name": "Big Bad Warwick",
-				"chromas": false
+				"chromas": false,
+                "splash": "Warwick_3.png"
 			}, {
 				"id": "19004",
 				"num": 4,
 				"name": "Tundra Hunter Warwick",
-				"chromas": false
+				"chromas": false,
+                "splash": "Warwick_4.png"
 			}, {
 				"id": "19005",
 				"num": 5,
 				"name": "Feral Warwick",
-				"chromas": false
+				"chromas": false,
+                "splash": "Warwick_5.png"
 			}, {
 				"id": "19006",
 				"num": 6,
 				"name": "Firefang Warwick",
-				"chromas": false
+				"chromas": false,
+                "splash": "Warwick_6.png"
 			}, {
 				"id": "19007",
 				"num": 7,
 				"name": "Hyena Warwick",
-				"chromas": false
+				"chromas": false,
+                "splash": "Warwick_7.png"
 			}, {
 				"id": "19008",
 				"num": 8,
 				"name": "Marauder Warwick",
-				"chromas": false
+				"chromas": false,
+                "splash": "Warwick_8.png"
 			}, {
 				"id": "19009",
 				"num": 9,
 				"name": "Urfwick",
-				"chromas": false
+				"chromas": false,
+                "splash": "Warwick_9.png"
 			}, {
 				"id": "19010",
 				"num": 10,
 				"name": "Lunar Guardian Warwick",
-				"chromas": true
+				"chromas": true,
+                "splash": "Warwick_10.png"
 			}, {
 				"id": "19016",
 				"num": 16,
 				"name": "PROJECT: Warwick",
-				"chromas": true
+				"chromas": true,
+                "splash": "Warwick_16.png"
 			}, {
 				"id": "19035",
 				"num": 35,
 				"name": "Old God Warwick",
-				"chromas": false
+				"chromas": false,
+                "splash": "Warwick_35.png"
 			}],
 			"lore": "Warwick is a monster who hunts the gray alleys of Zaun. Transformed by agonizing experiments, his body is fused with an intricate system of chambers and pumps, machinery filling his veins with alchemical rage. Bursting out of the shadows, he preys upon those criminals who terrorize the city's depths. Warwick is drawn to blood, and driven mad by its scent. None who spill it can escape him.",
 			"blurb": "Warwick is a monster who hunts the gray alleys of Zaun. Transformed by agonizing experiments, his body is fused with an intricate system of chambers and pumps, machinery filling his veins with alchemical rage. Bursting out of the shadows, he preys upon...",
@@ -42172,7 +42654,7 @@
 			"title": "the Rebel",
 			"image": {
 				"full": "Xayah.png",
-				"sprite": "champion4.png",
+				"splash": "Xayah_0.png",
 				"group": "champion",
 				"x": 288,
 				"y": 96,
@@ -42183,47 +42665,56 @@
 				"id": "498000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Xayah_0.png"
 			}, {
 				"id": "498001",
 				"num": 1,
 				"name": "Cosmic Dusk Xayah",
-				"chromas": false
+				"chromas": false,
+                "splash": "Xayah_1.png"
 			}, {
 				"id": "498002",
 				"num": 2,
 				"name": "Sweetheart Xayah",
-				"chromas": false
+				"chromas": false,
+                "splash": "Xayah_2.png"
 			}, {
 				"id": "498003",
 				"num": 3,
 				"name": "SSG Xayah",
-				"chromas": false
+				"chromas": false,
+                "splash": "Xayah_3.png"
 			}, {
 				"id": "498004",
 				"num": 4,
 				"name": "Star Guardian Xayah",
-				"chromas": true
+				"chromas": true,
+                "splash": "Xayah_4.png"
 			}, {
 				"id": "498008",
 				"num": 8,
 				"name": "Elderwood Xayah",
-				"chromas": true
+				"chromas": true,
+                "splash": "Xayah_8.png"
 			}, {
 				"id": "498017",
 				"num": 17,
 				"name": "Brave Phoenix Xayah",
-				"chromas": true
+				"chromas": true,
+                "splash": "Xayah_17.png"
 			}, {
 				"id": "498026",
 				"num": 26,
 				"name": "Prestige Brave Phoenix Xayah",
-				"chromas": false
+				"chromas": false,
+                "splash": "Xayah_26.png"
 			}, {
 				"id": "498028",
 				"num": 28,
 				"name": "Arcana Xayah",
-				"chromas": true
+				"chromas": true,
+                "splash": "Xayah_28.png"
 			}],
 			"lore": "Deadly and precise, Xayah is a vastayan revolutionary waging a personal war to save her people. She uses her speed, guile, and razor-sharp feather blades to cut down anyone who stands in her way. Xayah fights alongside her partner and lover, Rakan, to protect their dwindling tribe, and restore their race to her vision of its former glory.",
 			"blurb": "Deadly and precise, Xayah is a vastayan revolutionary waging a personal war to save her people. She uses her speed, guile, and razor-sharp feather blades to cut down anyone who stands in her way. Xayah fights alongside her partner and lover, Rakan, to...",
@@ -42450,7 +42941,7 @@
 			"title": "the Magus Ascendant",
 			"image": {
 				"full": "Xerath.png",
-				"sprite": "champion4.png",
+				"splash": "Xerath_0.png",
 				"group": "champion",
 				"x": 336,
 				"y": 96,
@@ -42461,37 +42952,44 @@
 				"id": "101000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Xerath_0.png"
 			}, {
 				"id": "101001",
 				"num": 1,
 				"name": "Runeborn Xerath",
-				"chromas": false
+				"chromas": false,
+                "splash": "Xerath_1.png"
 			}, {
 				"id": "101002",
 				"num": 2,
 				"name": "Battlecast Xerath",
-				"chromas": false
+				"chromas": false,
+                "splash": "Xerath_2.png"
 			}, {
 				"id": "101003",
 				"num": 3,
 				"name": "Scorched Earth Xerath",
-				"chromas": false
+				"chromas": false,
+                "splash": "Xerath_3.png"
 			}, {
 				"id": "101004",
 				"num": 4,
 				"name": "Guardian of the Sands Xerath",
-				"chromas": false
+				"chromas": false,
+                "splash": "Xerath_4.png"
 			}, {
 				"id": "101005",
 				"num": 5,
 				"name": "Dark Star Xerath",
-				"chromas": true
+				"chromas": true,
+                "splash": "Xerath_5.png"
 			}, {
 				"id": "101012",
 				"num": 12,
 				"name": "Arcana Xerath",
-				"chromas": true
+				"chromas": true,
+                "splash": "Xerath_12.png"
 			}],
 			"lore": "Xerath is an Ascended Magus of ancient Shurima, a being of arcane energy writhing in the broken shards of a magical sarcophagus. For millennia, he was trapped beneath the desert sands, but the rise of Shurima freed him from his ancient prison. Driven insane with power, he now seeks to take what he believes is rightfully his and replace the upstart civilizations of the world with one fashioned in his image.",
 			"blurb": "Xerath is an Ascended Magus of ancient Shurima, a being of arcane energy writhing in the broken shards of a magical sarcophagus. For millennia, he was trapped beneath the desert sands, but the rise of Shurima freed him from his ancient prison. Driven...",
@@ -42718,7 +43216,7 @@
 			"title": "the Seneschal of Demacia",
 			"image": {
 				"full": "XinZhao.png",
-				"sprite": "champion4.png",
+				"splash": "XinZhao_0.png",
 				"group": "champion",
 				"x": 384,
 				"y": 96,
@@ -42729,57 +43227,68 @@
 				"id": "5000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "XinZhao_0.png"
 			}, {
 				"id": "5001",
 				"num": 1,
 				"name": "Commando Xin Zhao",
-				"chromas": false
+				"chromas": false,
+                "splash": "XinZhao_1.png"
 			}, {
 				"id": "5002",
 				"num": 2,
 				"name": "Imperial Xin Zhao",
-				"chromas": false
+				"chromas": false,
+                "splash": "XinZhao_2.png"
 			}, {
 				"id": "5003",
 				"num": 3,
 				"name": "Viscero Xin Zhao",
-				"chromas": false
+				"chromas": false,
+                "splash": "XinZhao_3.png"
 			}, {
 				"id": "5004",
 				"num": 4,
 				"name": "Winged Hussar Xin Zhao",
-				"chromas": false
+				"chromas": false,
+                "splash": "XinZhao_4.png"
 			}, {
 				"id": "5005",
 				"num": 5,
 				"name": "Warring Kingdoms Xin Zhao",
-				"chromas": true
+				"chromas": true,
+                "splash": "XinZhao_5.png"
 			}, {
 				"id": "5006",
 				"num": 6,
 				"name": "Secret Agent Xin Zhao",
-				"chromas": false
+				"chromas": false,
+                "splash": "XinZhao_6.png"
 			}, {
 				"id": "5013",
 				"num": 13,
 				"name": "Dragonslayer Xin Zhao",
-				"chromas": true
+				"chromas": true,
+                "splash": "XinZhao_13.png"
 			}, {
 				"id": "5020",
 				"num": 20,
 				"name": "Cosmic Defender Xin Zhao",
-				"chromas": true
+				"chromas": true,
+                "splash": "XinZhao_20.png"
 			}, {
 				"id": "5027",
 				"num": 27,
 				"name": "Marauder Xin Zhao",
-				"chromas": true
+				"chromas": true,
+                "splash": "XinZhao_27.png"
 			}, {
 				"id": "5036",
 				"num": 36,
 				"name": "Firecracker Xin Zhao",
-				"chromas": true
+				"chromas": true,
+                "splash": "XinZhao_36.png"
 			}],
 			"lore": "Xin Zhao is a resolute warrior loyal to the ruling Lightshield dynasty. Once condemned to the fighting pits of Noxus, he survived countless gladiatorial bouts, but after being freed by Demacian forces, he swore his life and allegiance to these brave liberators. Armed with his favored three-talon spear, Xin Zhao now fights for his adopted kingdom, audaciously challenging any foe, no matter the odds.",
 			"blurb": "Xin Zhao is a resolute warrior loyal to the ruling Lightshield dynasty. Once condemned to the fighting pits of Noxus, he survived countless gladiatorial bouts, but after being freed by Demacian forces, he swore his life and allegiance to these brave...",
@@ -43006,7 +43515,7 @@
 			"title": "the Unforgiven",
 			"image": {
 				"full": "Yasuo.png",
-				"sprite": "champion4.png",
+				"splash": "Yasuo_0.png",
 				"group": "champion",
 				"x": 432,
 				"y": 96,
@@ -43017,67 +43526,80 @@
 				"id": "157000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Yasuo_0.png"
 			}, {
 				"id": "157001",
 				"num": 1,
 				"name": "High Noon Yasuo",
-				"chromas": true
+				"chromas": true,
+                "splash": "Yasuo_1.png"
 			}, {
 				"id": "157002",
 				"num": 2,
 				"name": "PROJECT: Yasuo",
-				"chromas": false
+				"chromas": false,
+                "splash": "Yasuo_2.png"
 			}, {
 				"id": "157003",
 				"num": 3,
 				"name": "Blood Moon Yasuo",
-				"chromas": false
+				"chromas": false,
+                "splash": "Yasuo_3.png"
 			}, {
 				"id": "157009",
 				"num": 9,
 				"name": "Nightbringer Yasuo",
-				"chromas": true
+				"chromas": true,
+                "splash": "Yasuo_9.png"
 			}, {
 				"id": "157010",
 				"num": 10,
 				"name": "Odyssey Yasuo",
-				"chromas": true
+				"chromas": true,
+                "splash": "Yasuo_10.png"
 			}, {
 				"id": "157017",
 				"num": 17,
 				"name": "Battle Boss Yasuo",
-				"chromas": true
+				"chromas": true,
+                "splash": "Yasuo_17.png"
 			}, {
 				"id": "157018",
 				"num": 18,
 				"name": "True Damage Yasuo",
-				"chromas": true
+				"chromas": true,
+                "splash": "Yasuo_18.png"
 			}, {
 				"id": "157035",
 				"num": 35,
 				"name": "Prestige True Damage Yasuo",
-				"chromas": false
+				"chromas": false,
+                "splash": "Yasuo_35.png"
 			}, {
 				"id": "157036",
 				"num": 36,
 				"name": "Spirit Blossom Yasuo",
-				"chromas": true
+				"chromas": true,
+                "splash": "Yasuo_36.png"
 			}, {
 				"id": "157045",
 				"num": 45,
 				"name": "Sea Dog Yasuo",
-				"chromas": true
+				"chromas": true,
+                "splash": "Yasuo_45.png"
 			}, {
 				"id": "157054",
 				"num": 54,
 				"name": "Truth Dragon Yasuo",
-				"chromas": false
+				"chromas": false,
+                "splash": "Yasuo_54.png"
 			}, {
 				"id": "157055",
 				"num": 55,
 				"name": "Dream Dragon Yasuo",
-				"chromas": false
+				"chromas": false,
+                "splash": "Yasuo_55.png"
 			}],
 			"lore": "An Ionian of deep resolve, Yasuo is an agile swordsman who wields the air itself against his enemies. As a proud young man, he was falsely accused of murdering his master—unable to prove his innocence, he was forced to slay his own brother in self defense. Even after his master's true killer was revealed, Yasuo still could not forgive himself for all he had done, and now wanders his homeland with only the wind to guide his blade.",
 			"blurb": "An Ionian of deep resolve, Yasuo is an agile swordsman who wields the air itself against his enemies. As a proud young man, he was falsely accused of murdering his master—unable to prove his innocence, he was forced to slay his own brother in self...",
@@ -43304,7 +43826,7 @@
 			"title": "the Unforgotten",
 			"image": {
 				"full": "Yone.png",
-				"sprite": "champion5.png",
+				"splash": "Yone_0.png",
 				"group": "champion",
 				"x": 0,
 				"y": 0,
@@ -43315,27 +43837,32 @@
 				"id": "777000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Yone_0.png"
 			}, {
 				"id": "777001",
 				"num": 1,
 				"name": "Spirit Blossom Yone",
-				"chromas": true
+				"chromas": true,
+                "splash": "Yone_1.png"
 			}, {
 				"id": "777010",
 				"num": 10,
 				"name": "Battle Academia Yone",
-				"chromas": true
+				"chromas": true,
+                "splash": "Yone_10.png"
 			}, {
 				"id": "777019",
 				"num": 19,
 				"name": "Dawnbringer Yone",
-				"chromas": true
+				"chromas": true,
+                "splash": "Yone_19.png"
 			}, {
 				"id": "777026",
 				"num": 26,
 				"name": "Ocean Song Yone",
-				"chromas": true
+				"chromas": true,
+                "splash": "Yone_26.png"
 			}],
 			"lore": "In life, he was Yone—half-brother of Yasuo, and renowned student of his village's sword school. But upon his death at the hands of his brother, he found himself hunted by a malevolent entity of the spirit realm, and was forced to slay it with its own sword. Now, cursed to wear its demonic mask upon his face, Yone tirelessly hunts all such creatures in order to understand what he has become.",
 			"blurb": "In life, he was Yone—half-brother of Yasuo, and renowned student of his village's sword school. But upon his death at the hands of his brother, he found himself hunted by a malevolent entity of the spirit realm, and was forced to slay it with its own...",
@@ -43562,7 +44089,7 @@
 			"title": "Shepherd of Souls",
 			"image": {
 				"full": "Yorick.png",
-				"sprite": "champion5.png",
+				"splash": "Yorick_0.png",
 				"group": "champion",
 				"x": 48,
 				"y": 0,
@@ -43573,37 +44100,44 @@
 				"id": "83000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Yorick_0.png"
 			}, {
 				"id": "83001",
 				"num": 1,
 				"name": "Undertaker Yorick",
-				"chromas": false
+				"chromas": false,
+                "splash": "Yorick_1.png"
 			}, {
 				"id": "83002",
 				"num": 2,
 				"name": "Pentakill Yorick",
-				"chromas": false
+				"chromas": false,
+                "splash": "Yorick_2.png"
 			}, {
 				"id": "83003",
 				"num": 3,
 				"name": "Arclight Yorick",
-				"chromas": false
+				"chromas": false,
+                "splash": "Yorick_3.png"
 			}, {
 				"id": "83004",
 				"num": 4,
 				"name": "Meowrick",
-				"chromas": true
+				"chromas": true,
+                "splash": "Yorick_4.png"
 			}, {
 				"id": "83012",
 				"num": 12,
 				"name": "Resistance Yorick",
-				"chromas": true
+				"chromas": true,
+                "splash": "Yorick_12.png"
 			}, {
 				"id": "83021",
 				"num": 21,
 				"name": "Pentakill III: Lost Chapter Yorick",
-				"chromas": true
+				"chromas": true,
+                "splash": "Yorick_21.png"
 			}],
 			"lore": "The last survivor of a long-forgotten religious order, Yorick is both blessed and cursed with power over the dead. Trapped on the Shadow Isles, his only companions are the rotting corpses and shrieking spirits that he gathers to him. Yorick's monstrous actions belie his noble purpose: to free his home from the curse of the Ruination.",
 			"blurb": "The last survivor of a long-forgotten religious order, Yorick is both blessed and cursed with power over the dead. Trapped on the Shadow Isles, his only companions are the rotting corpses and shrieking spirits that he gathers to him. Yorick's monstrous...",
@@ -43830,7 +44364,7 @@
 			"title": "the Magical Cat",
 			"image": {
 				"full": "Yuumi.png",
-				"sprite": "champion5.png",
+				"splash": "Yuumi_0.png",
 				"group": "champion",
 				"x": 96,
 				"y": 0,
@@ -43841,32 +44375,38 @@
 				"id": "350000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Yuumi_0.png"
 			}, {
 				"id": "350001",
 				"num": 1,
 				"name": "Battle Principal Yuumi",
-				"chromas": true
+				"chromas": true,
+                "splash": "Yuumi_1.png"
 			}, {
 				"id": "350011",
 				"num": 11,
 				"name": "Heartseeker Yuumi",
-				"chromas": true
+				"chromas": true,
+                "splash": "Yuumi_11.png"
 			}, {
 				"id": "350019",
 				"num": 19,
 				"name": "Yuubee",
-				"chromas": true
+				"chromas": true,
+                "splash": "Yuumi_19.png"
 			}, {
 				"id": "350028",
 				"num": 28,
 				"name": "Bewitching Yuumi",
-				"chromas": true
+				"chromas": true,
+                "splash": "Yuumi_28.png"
 			}, {
 				"id": "350037",
 				"num": 37,
 				"name": "EDG Yuumi",
-				"chromas": true
+				"chromas": true,
+                "splash": "Yuumi_37.png"
 			}],
 			"lore": "A magical cat from Bandle City, Yuumi was once the familiar of a yordle enchantress, Norra. When her master mysteriously disappeared, Yuumi became the Keeper of Norra's sentient Book of Thresholds, traveling through portals in its pages to search for her. Yearning for affection, Yuumi seeks friendly companions to partner with on her journey, protecting them with luminous shields and fierce resolve. While Book strives to keep her on task, Yuumi is often drawn to worldly comforts, such as naps and fish. In the end, however, she always returns to her quest to find her friend.",
 			"blurb": "A magical cat from Bandle City, Yuumi was once the familiar of a yordle enchantress, Norra. When her master mysteriously disappeared, Yuumi became the Keeper of Norra's sentient Book of Thresholds, traveling through portals in its pages to search for...",
@@ -44093,7 +44633,7 @@
 			"title": "the Secret Weapon",
 			"image": {
 				"full": "Zac.png",
-				"sprite": "champion5.png",
+				"splash": "Zac_0.png",
 				"group": "champion",
 				"x": 144,
 				"y": 0,
@@ -44104,27 +44644,32 @@
 				"id": "154000",
 				"num": 0,
 				"name": "default",
-				"chromas": true
+				"chromas": true,
+                "splash": "Zac_0.png"
 			}, {
 				"id": "154001",
 				"num": 1,
 				"name": "Special Weapon Zac",
-				"chromas": false
+				"chromas": false,
+                "splash": "Zac_1.png"
 			}, {
 				"id": "154002",
 				"num": 2,
 				"name": "Pool Party Zac",
-				"chromas": false
+				"chromas": false,
+                "splash": "Zac_2.png"
 			}, {
 				"id": "154006",
 				"num": 6,
 				"name": "SKT T1 Zac",
-				"chromas": false
+				"chromas": false,
+                "splash": "Zac_6.png"
 			}, {
 				"id": "154007",
 				"num": 7,
 				"name": "Battlecast Zac",
-				"chromas": true
+				"chromas": true,
+                "splash": "Zac_7.png"
 			}],
 			"lore": "Zac is the product of a toxic spill that ran through a chemtech seam and pooled in an isolated cavern deep in Zaun's Sump. Despite such humble origins, Zac has grown from primordial ooze into a thinking being who dwells in the city's pipes, occasionally emerging to help those who cannot help themselves or to rebuild the broken infrastructure of Zaun.",
 			"blurb": "Zac is the product of a toxic spill that ran through a chemtech seam and pooled in an isolated cavern deep in Zaun's Sump. Despite such humble origins, Zac has grown from primordial ooze into a thinking being who dwells in the city's pipes, occasionally...",
@@ -44351,7 +44896,7 @@
 			"title": "the Master of Shadows",
 			"image": {
 				"full": "Zed.png",
-				"sprite": "champion5.png",
+				"splash": "Zed_0.png",
 				"group": "champion",
 				"x": 192,
 				"y": 0,
@@ -44362,52 +44907,62 @@
 				"id": "238000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Zed_0.png"
 			}, {
 				"id": "238001",
 				"num": 1,
 				"name": "Shockblade Zed",
-				"chromas": true
+				"chromas": true,
+                "splash": "Zed_1.png"
 			}, {
 				"id": "238002",
 				"num": 2,
 				"name": "SKT T1 Zed",
-				"chromas": false
+				"chromas": false,
+                "splash": "Zed_2.png"
 			}, {
 				"id": "238003",
 				"num": 3,
 				"name": "PROJECT: Zed",
-				"chromas": true
+				"chromas": true,
+                "splash": "Zed_3.png"
 			}, {
 				"id": "238010",
 				"num": 10,
 				"name": "Championship Zed",
-				"chromas": true
+				"chromas": true,
+                "splash": "Zed_10.png"
 			}, {
 				"id": "238011",
 				"num": 11,
 				"name": "Death Sworn Zed",
-				"chromas": false
+				"chromas": false,
+                "splash": "Zed_11.png"
 			}, {
 				"id": "238013",
 				"num": 13,
 				"name": "Galaxy Slayer Zed",
-				"chromas": true
+				"chromas": true,
+                "splash": "Zed_13.png"
 			}, {
 				"id": "238015",
 				"num": 15,
 				"name": "PsyOps Zed",
-				"chromas": true
+				"chromas": true,
+                "splash": "Zed_15.png"
 			}, {
 				"id": "238030",
 				"num": 30,
 				"name": "Prestige PROJECT: Zed",
-				"chromas": false
+				"chromas": false,
+                "splash": "Zed_30.png"
 			}, {
 				"id": "238031",
 				"num": 31,
 				"name": "Debonair Zed",
-				"chromas": true
+				"chromas": true,
+                "splash": "Zed_31.png"
 			}],
 			"lore": "Utterly ruthless and without mercy, Zed is the leader of the Order of Shadow, an organization he created with the intent of militarizing Ionia's magical and martial traditions to drive out Noxian invaders. During the war, desperation led him to unlock the secret shadow form—a malevolent spirit magic as dangerous and corrupting as it is powerful. Zed has mastered all of these forbidden techniques to destroy anything he sees as a threat to his nation, or his new order.",
 			"blurb": "Utterly ruthless and without mercy, Zed is the leader of the Order of Shadow, an organization he created with the intent of militarizing Ionia's magical and martial traditions to drive out Noxian invaders. During the war, desperation led him to unlock...",
@@ -44634,7 +45189,7 @@
 			"title": "The Spark of Zaun",
 			"image": {
 				"full": "Zeri.png",
-				"sprite": "champion5.png",
+				"splash": "Zeri_0.png",
 				"group": "champion",
 				"x": 240,
 				"y": 0,
@@ -44645,17 +45200,20 @@
 				"id": "221000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Zeri_0.png"
 			}, {
 				"id": "221001",
 				"num": 1,
 				"name": "Withered Rose Zeri",
-				"chromas": true
+				"chromas": true,
+                "splash": "Zeri_1.png"
 			}, {
 				"id": "221010",
 				"num": 10,
 				"name": "Ocean Song Zeri",
-				"chromas": true
+				"chromas": true,
+                "splash": "Zeri_10.png"
 			}],
 			"lore": "A headstrong, spirited young woman from Zaun's working-class, Zeri channels her electric magic to charge herself and her custom-crafted gun. Her volatile power mirrors her emotions, its sparks reflecting her lightning-fast approach to life. Deeply compassionate toward others, Zeri carries the love of her family and her home into every fight. Though her eagerness to help can sometimes backfire, Zeri believes one truth to be certain: stand up for your community, and it will stand up with you.",
 			"blurb": "A headstrong, spirited young woman from Zaun's working-class, Zeri channels her electric magic to charge herself and her custom-crafted gun. Her volatile power mirrors her emotions, its sparks reflecting her lightning-fast approach to life. Deeply...",
@@ -44882,7 +45440,7 @@
 			"title": "the Hexplosives Expert",
 			"image": {
 				"full": "Ziggs.png",
-				"sprite": "champion5.png",
+				"splash": "Ziggs_0.png",
 				"group": "champion",
 				"x": 288,
 				"y": 0,
@@ -44893,57 +45451,68 @@
 				"id": "115000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Ziggs_0.png"
 			}, {
 				"id": "115001",
 				"num": 1,
 				"name": "Mad Scientist Ziggs",
-				"chromas": false
+				"chromas": false,
+                "splash": "Ziggs_1.png"
 			}, {
 				"id": "115002",
 				"num": 2,
 				"name": "Major Ziggs",
-				"chromas": false
+				"chromas": false,
+                "splash": "Ziggs_2.png"
 			}, {
 				"id": "115003",
 				"num": 3,
 				"name": "Pool Party Ziggs",
-				"chromas": false
+				"chromas": false,
+                "splash": "Ziggs_3.png"
 			}, {
 				"id": "115004",
 				"num": 4,
 				"name": "Snow Day Ziggs",
-				"chromas": false
+				"chromas": false,
+                "splash": "Ziggs_4.png"
 			}, {
 				"id": "115005",
 				"num": 5,
 				"name": "Master Arcanist Ziggs",
-				"chromas": false
+				"chromas": false,
+                "splash": "Ziggs_5.png"
 			}, {
 				"id": "115006",
 				"num": 6,
 				"name": "Battle Boss Ziggs",
-				"chromas": false
+				"chromas": false,
+                "splash": "Ziggs_6.png"
 			}, {
 				"id": "115007",
 				"num": 7,
 				"name": "Odyssey Ziggs",
-				"chromas": true
+				"chromas": true,
+                "splash": "Ziggs_7.png"
 			}, {
 				"id": "115014",
 				"num": 14,
 				"name": "Sugar Rush Ziggs",
-				"chromas": true
+				"chromas": true,
+                "splash": "Ziggs_14.png"
 			}, {
 				"id": "115023",
 				"num": 23,
 				"name": "Hextech Ziggs",
-				"chromas": false
+				"chromas": false,
+                "splash": "Ziggs_23.png"
 			}, {
 				"id": "115024",
 				"num": 24,
 				"name": "BZZZiggs",
-				"chromas": true
+				"chromas": true,
+                "splash": "Ziggs_24.png"
 			}],
 			"lore": "With a love of big bombs and short fuses, the yordle Ziggs is an explosive force of nature. As an inventor's assistant in Piltover, he was bored by his predictable life and befriended a mad, blue-haired bomber named Jinx. After a wild night on the town, Ziggs took her advice and moved to Zaun, where he now explores his fascinations more freely, terrorizing the chem-barons and regular citizens alike in his never ending quest to blow stuff up.",
 			"blurb": "With a love of big bombs and short fuses, the yordle Ziggs is an explosive force of nature. As an inventor's assistant in Piltover, he was bored by his predictable life and befriended a mad, blue-haired bomber named Jinx. After a wild night on the town...",
@@ -45170,7 +45739,7 @@
 			"title": "the Chronokeeper",
 			"image": {
 				"full": "Zilean.png",
-				"sprite": "champion5.png",
+				"splash": "Zilean_0.png",
 				"group": "champion",
 				"x": 336,
 				"y": 0,
@@ -45181,37 +45750,44 @@
 				"id": "26000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Zilean_0.png"
 			}, {
 				"id": "26001",
 				"num": 1,
 				"name": "Old Saint Zilean",
-				"chromas": false
+				"chromas": false,
+                "splash": "Zilean_1.png"
 			}, {
 				"id": "26002",
 				"num": 2,
 				"name": "Groovy Zilean",
-				"chromas": false
+				"chromas": false,
+                "splash": "Zilean_2.png"
 			}, {
 				"id": "26003",
 				"num": 3,
 				"name": "Shurima Desert Zilean",
-				"chromas": false
+				"chromas": false,
+                "splash": "Zilean_3.png"
 			}, {
 				"id": "26004",
 				"num": 4,
 				"name": "Time Machine Zilean",
-				"chromas": false
+				"chromas": false,
+                "splash": "Zilean_4.png"
 			}, {
 				"id": "26005",
 				"num": 5,
 				"name": "Blood Moon Zilean",
-				"chromas": false
+				"chromas": false,
+                "splash": "Zilean_5.png"
 			}, {
 				"id": "26006",
 				"num": 6,
 				"name": "Sugar Rush Zilean",
-				"chromas": true
+				"chromas": true,
+                "splash": "Zilean_6.png"
 			}],
 			"lore": "Once a powerful Icathian mage, Zilean became obsessed with the passage of time after witnessing his homeland's destruction by the Void. Unable to spare even a minute to grieve the catastrophic loss, he called upon ancient temporal magic to divine all possible outcomes. Having become functionally immortal, Zilean now drifts through the past, present, and future, bending and warping the flow of time around him, always searching for that elusive moment that will turn back the clock and undo Icathia's destruction.",
 			"blurb": "Once a powerful Icathian mage, Zilean became obsessed with the passage of time after witnessing his homeland's destruction by the Void. Unable to spare even a minute to grieve the catastrophic loss, he called upon ancient temporal magic to divine all...",
@@ -45438,7 +46014,7 @@
 			"title": "the Aspect of Twilight",
 			"image": {
 				"full": "Zoe.png",
-				"sprite": "champion5.png",
+				"splash": "Zoe_0.png",
 				"group": "champion",
 				"x": 384,
 				"y": 0,
@@ -45449,37 +46025,44 @@
 				"id": "142000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Zoe_0.png"
 			}, {
 				"id": "142001",
 				"num": 1,
 				"name": "Cyber Pop Zoe",
-				"chromas": false
+				"chromas": false,
+                "splash": "Zoe_1.png"
 			}, {
 				"id": "142002",
 				"num": 2,
 				"name": "Pool Party Zoe",
-				"chromas": true
+				"chromas": true,
+                "splash": "Zoe_2.png"
 			}, {
 				"id": "142009",
 				"num": 9,
 				"name": "Star Guardian Zoe",
-				"chromas": true
+				"chromas": true,
+                "splash": "Zoe_9.png"
 			}, {
 				"id": "142018",
 				"num": 18,
 				"name": "Arcanist Zoe",
-				"chromas": false
+				"chromas": false,
+                "splash": "Zoe_18.png"
 			}, {
 				"id": "142019",
 				"num": 19,
 				"name": "Prestige Arcanist Zoe",
-				"chromas": false
+				"chromas": false,
+                "splash": "Zoe_19.png"
 			}, {
 				"id": "142020",
 				"num": 20,
 				"name": "EDG Zoe",
-				"chromas": true
+				"chromas": true,
+                "splash": "Zoe_20.png"
 			}],
 			"lore": "As the embodiment of mischief, imagination, and change, Zoe acts as the cosmic messenger of Targon, heralding major events that reshape worlds. Her mere presence warps the arcane mathematics governing realities, sometimes causing cataclysms without conscious effort or malice. This perhaps explains the breezy nonchalance with which Zoe approaches her duties, giving her plenty of time to focus on playing games, tricking mortals, or otherwise amusing herself. An encounter with Zoe can be joyous and life affirming, but it is always more than it appears and often extremely dangerous.",
 			"blurb": "As the embodiment of mischief, imagination, and change, Zoe acts as the cosmic messenger of Targon, heralding major events that reshape worlds. Her mere presence warps the arcane mathematics governing realities, sometimes causing cataclysms without...",
@@ -45706,7 +46289,7 @@
 			"title": "Rise of the Thorns",
 			"image": {
 				"full": "Zyra.png",
-				"sprite": "champion5.png",
+                "splash": "Zyra_0.png",
 				"group": "champion",
 				"x": 432,
 				"y": 0,
@@ -45717,47 +46300,56 @@
 				"id": "143000",
 				"num": 0,
 				"name": "default",
-				"chromas": false
+				"chromas": false,
+                "splash": "Zyra_0.png"
 			}, {
 				"id": "143001",
 				"num": 1,
 				"name": "Wildfire Zyra",
-				"chromas": false
+				"chromas": false,
+                "splash": "Zyra_1.png"
 			}, {
 				"id": "143002",
 				"num": 2,
 				"name": "Haunted Zyra",
-				"chromas": false
+				"chromas": false,
+                "splash": "Zyra_2.png"
 			}, {
 				"id": "143003",
 				"num": 3,
 				"name": "SKT T1 Zyra",
-				"chromas": false
+				"chromas": false,
+                "splash": "Zyra_3.png"
 			}, {
 				"id": "143004",
 				"num": 4,
 				"name": "Dragon Sorceress Zyra",
-				"chromas": false
+				"chromas": false,
+                "splash": "Zyra_4.png"
 			}, {
 				"id": "143005",
 				"num": 5,
 				"name": "Coven Zyra",
-				"chromas": true
+				"chromas": true,
+                "splash": "Zyra_5.png"
 			}, {
 				"id": "143006",
 				"num": 6,
 				"name": "Prestige Coven Zyra",
-				"chromas": false
+				"chromas": false,
+                "splash": "Zyra_6.png"
 			}, {
 				"id": "143007",
 				"num": 7,
 				"name": "Crystal Rose Zyra",
-				"chromas": true
+				"chromas": true,
+                "splash": "Zyra_7.png"
 			}, {
 				"id": "143016",
 				"num": 16,
 				"name": "Crime City Nightmare Zyra",
-				"chromas": true
+				"chromas": true,
+                "splash": "Zyra_16.png"
 			}],
 			"lore": "Born in an ancient, sorcerous catastrophe, Zyra is the wrath of nature given form—an alluring hybrid of plant and human, kindling new life with every step. She views the many mortals of Valoran as little more than prey for her seeded progeny, and thinks nothing of slaying them with flurries of deadly spines. Though her true purpose has not been revealed, Zyra wanders the world, indulging her most primal urges to colonize, and strangle all other life from it.",
 			"blurb": "Born in an ancient, sorcerous catastrophe, Zyra is the wrath of nature given form—an alluring hybrid of plant and human, kindling new life with every step. She views the many mortals of Valoran as little more than prey for her seeded progeny, and thinks...",
